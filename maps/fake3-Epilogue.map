@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+       Gg,       Gg,       Rr,       Gg,    Gg,       Gg,       Rd,       Rd,       Gg,       Rd,       Rr,       Rr,    Gs^Fp,       Gg,       Gg,    Gs^Fp,       Gg,       Rd,       Rd,    Gg,       Rr,       Rr
+       Gg,       Gg,       Rr,       Gg,    Gg^Ve,       Gg,       Rd,       Rd,       Gg,       Rd,       Rr,       Rr,    Gs^Fp,       Gg,       Gg,    Gs^Fp,       Gg,       Rd,       Rd,    Gg^Vh,       Rr,       Rr
+       Rr,       Rr,    Gg^Ve,       Rr,       Rr,       Rd,       Gg,       Gg,       Ch,       Gg,       Rr,    Gg^Ve,       Gg,       Gg,       Ch,       Gg,       Gg,    Gg^Ve,       Rr,       Rr,    Gg^Ve,    Gg
+       Gg,       Gg,       Rd,       Rd,    Gg^Ve,       Rr,       Gg,     1 Kh,       Ch,       Gg,       Rr,       Rr,       Rr,       Gg,       Ch,       Kh,       Gg,    Gs^Fp,       Rr,       Gg,    Gs^Fp,    Gs^Fp
+    Gs^Fp,    Gs^Fp,       Rd,       Gg,       Gg,       Rr,       Rr,       Ch,       Rr,       Rr,       Ch,       Ch,       Ch,       Rr,       Rr,       Ch,       Rr,       Rr,       Rd,       Gg,       Gg,       Gg
+       Gg,       Gg,       Rd,    Gg^Vh,    Gs^Fp,       Gg,       Gg,       Rr,       Ch,       Ch,       Rr,       Rr,       Rr,       Ch,       Ch,       Rr,       Rr,    Gg^Vh,       Gg,       Rd,    Gg^Ve,    Gg
+       Gg,       Gg,       Rd,       Gg,       Gg,       Gg,       Ch,       Rr,       Ch,       Rr,       Ch,       Ch,       Ch,       Rr,       Ch,       Rr,       Ch,       Gg,       Gg,       Rd,       Rd,       Rd
+       Rd,       Rd,    Gg^Ve,    Gs^Fp,       Gg,       Kh,       Ch,       Rr,       Ch,       Rr,       Ch,     2 Kh,       Ch,       Rr,       Ch,       Rr,       Ch,       Kh,       Gg,    Gg^Ve,       Rd,       Rd
+       Rd,       Rd,       Rd,    Gs^Fp,       Gg,       Gg,       Rr,       Rr,       Ch,       Rr,       Rr,       Ch,       Rr,       Rr,       Ch,       Rr,       Gg,    Gs^Fp,       Gg,       Gg,       Rd,       Rd
+       Gg,       Gg,       Rd,       Gg,    Gg^Vh,       Rr,       Rr,       Rr,       Rr,       Ch,       Ch,       Rr,       Ch,       Ch,       Rr,       Rr,       Rr,       Gg,    Gg^Ve,   Hh^Vhh,       Rd,       Rd
+       Gg,       Gg,       Rr,       Gg,       Rr,       Rr,       Gg,       Ch,       Ch,       Rr,       Rr,       Ch,       Rr,       Rr,       Ch,       Ch,       Gg,       Rr,       Rd,       Rd,    Gs^Fp,    Gs^Fp
+       Rr,       Rr,       Gg,       Rr,       Rd,    Gg^Ve,       Gg,       Kh,       Ch,       Gg,    Gs^Fp,       Rr,       Gg,    Gs^Fp,       Ch,       Kh,       Gg,       Rr,       Rr,       Gg,    Gs^Fp,    Gs^Fp
+       Rd,       Rd,    Gg^Ve,       Gg,    Gs^Fp,       Rd,       Rd,       Gg,       Gg,       Gg,       Rr,       Rr,       Gg,       Gg,       Gg,       Gg,       Rd,       Rd,       Rr,       Gg,    Gg^Ve,    Gg
+       Rd,       Rd,       Rd,       Gg,    Gs^Fp,    Gs^Fp,       Gg,       Rd,       Rd,       Rr,       Rd,    Gg^Vh,       Rd,       Rd,       Rd,       Rd,    Gg^Vh,       Gg,       Gg,       Rr,       Rr,       Rr
+       Gg,       Gg,    Gg^Ve,       Rd,       Rd,    Gg^Ve,       Rd,    Gg^Vh,       Rr,       Rr,       Gg,       Rd,    Gg^Ve,       Gg,    Gs^Fp,       Gg,       Gg,       Gg,       Rd,       Rd,       Rr,       Rr
+       Gg,       Gg,       Gg,       Gg,       Gg,       Rd,       Gg,       Rr,       Rd,       Gg,       Rd,       Gg,       Gg,       Gg,    Gs^Fp,    Gs^Fp,       Rd,       Rd,    Gg^Ve,       Gg,    Gg^Vh,    Gg
+    Gs^Fp,    Gs^Fp,    Gs^Fp,       Gg,    Gg^Ve,       Gg,       Rr,       Rr,       Gg,       Rd,       Gg,       Rd,       Rd,       Gg,       Rd,       Rd,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+    Gs^Fp,    Gs^Fp,       Gg,       Gg,       Rr,       Rr,       Gg,       Gg,    Gs^Fp,       Gg,       Gg,    Gg^Ve,       Gg,       Rd,       Gg,       Gg,    Gs^Fp,       Gg,       Gg,    Gs^Fp,    Gs^Fp,    Gs^Fp
+       Gg,       Gg,    Gg^Ve,       Gg,       Rr,    Gg^Vh,       Gg,       Gg,    Gs^Fp,    Gs^Fp,       Gg,       Gg,       Gg,       Gg,    Gs^Fp,    Gs^Fp,    Gs^Fp,       Gg,    Gg^Ve,    Gs^Fp,       Gg,       Gg
+       Gg,       Gg,       Rr,       Rr,       Gg,       Rd,       Rd,       Gg,       Rd,    Gs^Fp,       Gg,       Gg,    Gg^Ve,       Gg,       Gg,       Gg,       Gg,       Gg,       Rd,       Rd,       Rd,       Rd
+       Gg,       Gg,       Rr,       Rr,       Gg,    Gs^Fp,       Gg,       Rd,    Gg^Vh,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Gg,    Gg^Vh,       Gg,       Gg
+       Gg,       Gg,       Rr,       Rr,       Gg,    Gs^Fp,       Gg,       Rd,    Gg,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Rd,       Gg,    Gg,       Gg,       Gg
