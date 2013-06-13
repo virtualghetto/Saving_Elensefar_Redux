@@ -146,6 +146,10 @@ v1.5.2
 
 v1.5.3
  - updated translations
+ 
+v1.5.6
+ - merged experimental branch to default
+ - removed a lot of depreciated store/unstore constructs
 
 # TODO
 - alduin, caves and saurian trap need story
