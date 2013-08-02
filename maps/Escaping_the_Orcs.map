@@ -1,25 +1,25 @@
 border_size=1
 usage=map
 
-Ce          , Ce          , Ce          , Ce          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Cud         , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Ce          , Ce          , 1 Ke        , Ce          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Cud         , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Ce          , Ce          , Ce          , Ce          , Gg          , Xu          , Xu          , Xu          , Xu          , 2 Kud       , Cud         , Re          , Re          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Gg          , Re^Vct      , Rr          , Rr          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Gg          , Re          , Gg          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Gg          , Gg          , Rr          , Rr          , Gg          , Gg          , Gg          , Xu          , Gg          , Xu          , Gg          , Xu          , Gg          , Re          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Gg          , Gg          , Rr          , Rr          , Rr          , Gg^Fet      , Rr          , Gg          , Rr          , Gg          , Rr          , Gg          , Rr          , Re          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Gg          , Gg          , Re          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Gg          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          
-Re          , Re          , Gg          , Gg          , Gg          , Rr          , Gg          , Rr          , Gg          , Rr          , Gg          , Rr          , Gg          , Rr          , Rr          , Rr          , Rr          , Gg          , Gg          , Xu          , Gg          , Gg          
-Gg          , Re          , Gg          , Xu          , Xu          , Gg          , Xu          , Gg          , Xu          , Gg          , Xu          , Gg          , Xu          , Gg          , Gg          , Rr          , Rr          , Rr          , Rr          , Gg          , Rr          , Rr          
-Gg          , Re          , Gg          , Xu          , Cud         , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Gg          , Gg          , Rr          , Rr          , Rr          , Rr          , Rr          
-Gg          , Re          , Re          , Cud         , 3 Kud       , Cud         , Re          , Gg          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Gg          , Rr          , Rr          , Rr          , Rr          
-Xu          , Xu          , Xu          , Cud         , Xu          , Cud         , Xu          , Re          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Gg          , Rr          , Rr          , Rr          , Rr          
-Xu          , Xu          , Gg          , Xu          , Gg          , Xu          , Xu          , Re          , Re          , Gg          , Gg          , Xu          , Gg          , Xu          , Gg          , Xu          , Gg          , Gg          , Rr          , Rr          , Rr          , Rr          
-Re^Gvs      , Re^Gvs      , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Rr          , Gg          , Rr          , Gg          , Rr          , Gg          , Rr          , Gg          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          
-Re^Gvs      , Re^Gvs      , Rr          , Gg^Fet      , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Gg          , Gg          , Gg          , Gg          
-Rr          , Rr          , Rr          , Rr          , Ce          , Ce          , Ce          , Rr          , Gg^Fet      , Rr          , Gg          , Rr          , Gg          , Rr          , Gg          , Rr          , Gg          , Re          , Xu          , Xu          , Xu          , Xu          
-Gg          , Gg          , Gg^Vh       , Rr          , Ce          , Ke          , Ce          , Rr          , Gg          , Gg          , Xu          , Gg          , Xu          , Gg          , Xu          , Gg          , Re          , Re          , Gg          , Xu          , Xu          , Xu          
-Ww^Bw/      , Ww^Bw/      , Ww          , Gg          , Gg^Vh       , Ce          , Rr          , Rr          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Gg          , Gg          , Re          , Gg          , Xu          , Xu          , Xu          , Xu          
-Ww          , Ww          , Ww^Bw/      , Ww^Bw/      , Ww          , Gg          , Gg^Vh       , Rr          , Gg          , Xu          , Xu          , Xu          , 4 Kud       , Cud         , Cud         , Re          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Ww          , Ww          , Ww          , Ww          , Ww^Bw/      , Ww^Bw/      , Ww          , Gg          , Gg          , Xu          , Xu          , Xu          , Xu          , Cud         , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Wo          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Gg          , Gg          , Gg          , Hd^Dr       , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
-Wo          , Wo          , Ww          , Ww          , Ww          , Ww          , Ww          , Gg          , Gg          , Gg          , Gg          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Ce, Ce, Ce, Ce, Rb, Xol, Xol, Xol, Xol, Xol, Cud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Ce, Ce, 1 Ke, Ce, Gg, Xol, Xol, Xol, Xol, Xol, Cud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Ce, Ce, Ce, Ce, Gg, Xol, Xol, Xol, Xol, 2 Kud, Cud, Rd, Rd, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gg, Rb^Vct, Rrc, Rrc, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Rd, Gg, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gg, Rb, Rrc, Rrc, Gg, Gg, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Rd, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gg, Gg, Rrc, Rrc, Rrc, Gg^Fet, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Rd, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gg, Gg, Rd, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Gg, Gg, Xol, Xol, Xol, Xol, Xol
+Rd, Rd, Gg, Gg, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Rrc, Rrc, Rrc, Gg, Gg, Xol, Gg, Gg
+Gg, Rd, Gg, Xol, Xol, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Gg, Rrc, Rrc, Rrc, Rrc, Gg, Rrc, Rrc
+Gg, Rd, Gg, Xol, Cud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Gg, Rrc, Rrc, Rrc, Rrc, Rrc
+Gg, Rd, Rd, Cud, 3 Kud, Cud, Rd, Gg, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Rrc, Rrc, Rrc, Rrc
+Xol, Xol, Xol, Cud, Xol, Cud, Xol, Rd, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Rrc, Rrc, Rrc, Rrc
+Xol, Xol, Gg, Xol, Xol, Xol, Xol, Rd, Rd, Gg, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Gg, Rrc, Rrc, Rrc, Rrc
+Re^Gvs, Re^Gvs, Gg, Gg, Gg, Gg, Gg, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc
+Re^Gvs, Re^Gvs, Rrc, Gg^Fet, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Rrc, Gg, Gg, Gg, Gg
+Rrc, Rrc, Rrc, Rrc, Ce, Ce, Ce, Rrc, Gg^Fet, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rd, Xol, Xol, Xol, Xol
+Gg, Rb, Rrc^Vhc, Rrc, Ce, Ket, Ce, Rrc, Gg, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Rd, Rd, Gg, Xol, Xol, Xol
+Ww^Bsb/, Ww^Bsb/, Ww, Rr, Rr^Vhc, Ce, Rrc, Rrc, Gg, Xol, Xol, Xol, Xol, Xol, Gg, Gg, Rd, Gg, Xol, Xol, Xol, Xol
+Ww, Ww, Ww^Bsb/, Ww^Bsb/, Ww, Rr, Rr^Vhc, Rrc, Gg, Xol, Xol, Xol, 4 Kud, Cud, Cud, Rd, Xol, Xol, Xol, Xol, Xol, Xol
+Ww, Ww, Ww, Ww, Ww^Bsb/, Ww^Bsb/, Ww, Rb, Gg, Xol, Xol, Xol, Xol, Cud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Wo, Ww, Ww, Ww, Ww, Ww, Ww, Gg, Gg, Gg, Hd^Dr, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Wo, Wo, Ww, Ww, Ww, Ww, Ww, Rb, Gg, Gg, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol

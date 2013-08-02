@@ -1,26 +1,26 @@
 border_size=1
 usage=map
 
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Xu          , Xu          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Xu          , Xu          , Wo          , Wo          , Wo          , Wo          , Xu          , Rb          , Rb          , Rb          , Xu          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Rb          , Rb          , Rb          , Xu          , Wo          , Wo          , Wo          , Rb          , Ce          , Ce          , Ce          , Rb          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Rd          , Rb          , Rb          , Rb          , Rd          , Wo          , Wo          , Wo          , Rd          , Ce          , 1 Ke        , Ce          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Rd          , Rb          , Rb          , Rb          , Rd          , Wo          , Wo          , Ww^Bw/      , Rd^Wyb      , Rb          , Ce          , Rb          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Rd          , Rb          , Rb          , Rb          , Rd          , Ww^Bw/      , Ww^Bw/      , Wo          , Rd          , Rb          , Rb          , Rb          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Rd          , Rb          , Xu          , Rb          , Rd^Wyb      , Wo          , Wo          , Ww^Bw/      , Rd^Wyb      , Rb          , Rb          , Rb          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Rd          , Rb          , Rb          , Rb          , Rd          , Ww^Bw/      , Ww^Bw/      , Wo          , Rd          , Rb          , Xu          , Rb          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Rd          , Rb          , Rb          , Rb          , Rd^Wyb      , Wo          , Wo          , Wo          , Rd          , Rb          , Rb          , Rb          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Rd          , Rb          , Xu          , Rb          , Rd          , Wo          , Wo          , Wo          , Rd          , Rb          , Rb          , Rb          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Xu          , Rb          , Rb          , Rb          , Xu          , Xu          , Wo          , Wo          , Rd          , Rb          , Xu          , Rb          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Rb          , Ce          , Ce          , Ce          , Rb          , Xu          , Wo          , Wo          , Rd          , Rb          , Rb          , Rb          , Rd          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Rb          , Ce          , 2 Ke        , Ce          , Rb          , Xu          , Wo          , Wo          , Xu          , Xu          , Rb          , Xu          , Xu          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Rb          , Rb          , Ce          , Rb          , Rb          , Xu          , Wo          , Wo          , Wo          , Wo          , Xu          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Xu          , Re^Wyb      , Xu          , Xu          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Xu          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Xuce, Xuce, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Xuce, Xuce, Wo, Wo, Wo, Wo, Xuce, Re, Re, Re, Xuce, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Re, Re, Re, Xuce, Wo, Wo, Wo, Re, Ce, Ce, Ce, Re, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Rd, Re, Re, Re, Rd, Wo, Wo, Wo, Rd, Ce, 1 Ke, Ce, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Rd, Re, Re, Re, Rd, Wo, Wo, Wo^Bh/, Rd^Wyb, Re, Ce, Re, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Rd, Re, Re, Re, Rd, Wo^Bh/, Wo^Bh/, Wo, Rd, Re, Re, Re, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Rd, Re, Xuce, Re, Rd^Wyb, Wo, Wo, Wo^Bh/, Rd^Wyb, Re, Re, Re, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Rd, Re, Re, Re, Rd, Wo^Bh/, Wo^Bh/, Wo, Rd, Re, Xuce, Re, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Rd, Re, Re, Re, Rd^Wyb, Wo, Wo, Wo, Rd, Re, Re, Re, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Rd, Re, Xuce, Re, Rd, Wo, Wo, Wo, Rd, Re, Re, Re, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Xuce, Re, Re, Re, Xuce, Xuce, Wo, Wo, Rd, Re, Xuce, Re, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Re, Ce, Ce, Ce, Re, Xuce, Wo, Wo, Rd, Re, Re, Re, Rd, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Re, Ce, 2 Ke, Ce, Re, Xuce, Wo, Wo, Xuce, Xuce, Re, Xuce, Xuce, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Re, Re, Ce, Re, Re, Xuce, Wo, Wo, Wo, Wo, Xuce, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Xuce, Re^Wyb, Xuce, Xuce, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Xuce, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo
