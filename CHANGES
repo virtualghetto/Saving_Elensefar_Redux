@@ -150,6 +150,12 @@ v1.5.3
 v1.5.6
  - merged experimental branch to default
  - removed a lot of depreciated store/unstore constructs
+ 
+v1.5.7~RC1
+ - updaded WML to something slighly more modern
+ - simplified a lot the underlying engine
+ - rebalance of almost all scenarios
+ - tweaked AI
 
 # TODO
 - alduin, caves and saurian trap need story

@@ -1,25 +1,25 @@
 border_size=1
 usage=map
 
-Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Ds          , Gg          , Gs^Fp       , Ww          , Gs^Fp       , Ww          , Gg          , Ww          , Ww          , Ww          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Ds          , Gg          , Gs^Fp       , Ww          , Gs^Fp       , Ww          , Gg          , Ww          , Ww          , Ww          , Gs^Fp       , Gs^Fp       , Gs^Fp       , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Gg          , Ww          , Gg^Vh       , Ww          , Gg^Vh       , Ww          , Ww          , Gs^Fp       , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Gg          , Ww          , Gg^Vh       , 1 Rp^Vhcr   , Gg^Vh       , Ww          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Ds          , Ww          , Ww          , Gg^Vh       , Ww          , Ww          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ww          , Ww          , Gg          , Gg          , Gg          , Gs^Fp       , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ds          , Ds          , Gg          , Gg          , Gs^Fp       , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Ds          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Ds          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ds          , Ds          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          
-Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ds          , Gg          , Gg          , Gg          , Gg          
+Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Gg, Gs^Fp, Ww, Gs^Fp, Ww, Gg, Ww, Ww, Ww, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gg
+Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Gg, Gs^Fp, Ww, Gs^Fp, Ww, Gg, Ww, Ww, Ww, Gs^Fp, Gs^Fp, Gs^Fp, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Gg, Ww, Rp^Vl, Ww, Rp^Vl, Ww, Ww, Gs^Fp, Gg, Gs^Fp, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Gg, Ww, Rp^Vl, 1 Urb^Vhcr, Rp^Vl, Ww, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Ww, Ww, Rp^Vl, Ww, Ww, Gg, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ww, Ww, Gg, Gg, Gg, Gs^Fp, Gs^Fp, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ds, Ds, Gg, Gg, Gs^Fp, Gg, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ds, Gg, Gg, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ww, Ds, Gg, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Gg, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Ds, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ds, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ds, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ds, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ww, Ds, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ds, Ds, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ds, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ds, Gg, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ww, Ds, Gg, Gg, Gg, Gg
+Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Wo, Ww, Ds, Gg, Gg, Gg, Gg
