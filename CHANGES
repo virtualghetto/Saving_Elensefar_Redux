@@ -107,7 +107,6 @@ v1.4.7
 - tweaked ai
 - balancing
 
-***************
 v1.4.8
 - removed pango in the credits.cfg
 - update german translation
@@ -122,11 +121,11 @@ v1.4.9
 v1.4.10
  - fixed fire island not triggering victory
 
-v1.4.2
+v1.4.12
  - added french translation
  - added czech translation
 
-v1.4.3
+v1.4.13
  - changed ai turn events to side turn
  - removed persistent ai sides
  - added a lot of death messages
@@ -154,12 +153,15 @@ v1.5.6
 v1.5.7~RC1
  - updaded WML to something slighly more modern
  - simplified a lot the underlying engine
- - rebalance of almost all scenarios
+ - rebalance of almost all scenarios (in progress)
  - tweaked AI
+ - replaced some graphics
 
 # TODO
-- alduin, caves and saurian trap need story
-- dialogue redo on 'The Swampland' and 'Illaryan..'
-- change 'Off the Peninsula'
+ ! Balance is off
+ - alduin, caves and saurian trap need story
+ - dialogue redo on 'The Swampland' and 'Illaryan..'
+ - change 'Off the Peninsula'
+ - finaly implement story images
 
 ## trewe - sjrs456 at yahoo dot fr ##
