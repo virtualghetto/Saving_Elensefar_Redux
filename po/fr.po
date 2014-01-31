@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-31 17:58+0000\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2014-01-31 15:05+0000\n"
 "PO-Revision-Date: 2012-02-16 16:47+0100\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: none\n"
@@ -49,13 +49,13 @@ msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:32
-msgid "(easiest)"
-msgstr "(facile)"
+msgid "Mariner"
+msgstr "Marin"
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:32
-msgid "Mariner"
-msgstr "Marin"
+msgid "(easiest)"
+msgstr "(facile)"
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:33
@@ -73,7 +73,7 @@ msgid "(hardest)"
 msgstr "(difficile)"
 
 #. [editor_group]: id=set
-#: Saving_Elensefar/_main.cfg:61
+#: Saving_Elensefar/_main.cfg:65
 msgid "Saving Elensefar Terrain"
 msgstr "Terrain du Sauver Elensefar"
 
@@ -1741,9 +1741,9 @@ msgid ""
 "left alive. But I will not stay in this city, it is too dangerous. I will go "
 "north."
 msgstr ""
-"Bien, je dois vous quitter. Je ne sais pas ce qu'il adviendra de mon "
-"peuple ; bien peu sont encore vivants. Mais je ne resterai pas dans cette "
-"ville, c'est trop dangereux. Je partirai au nord."
+"Bien, je dois vous quitter. Je ne sais pas ce qu'il adviendra de mon peuple "
+"; bien peu sont encore vivants. Mais je ne resterai pas dans cette ville, "
+"c'est trop dangereux. Je partirai au nord."
 
 #. [message]: id=Madru
 #: Saving_Elensefar/scenarios/f3-Epilogue.cfg:200
@@ -2158,9 +2158,9 @@ msgid ""
 "aint got us land. Me, Asknak here, or even a lich 'ud be better than you!"
 msgstr ""
 "Nous n'avons pas fait appel à quelque rebut d'humain venu du nord, quand "
-"bien même cela nous aurait aidé ! Tu es roi depuis trop longtemps "
-"Bakrakha !! Tu ne nous a donné ni vivres ni terres ! Et quiconque : moi, "
-"Asknak ou même une liche aurait été plus généreux que toi !"
+"bien même cela nous aurait aidé ! Tu es roi depuis trop longtemps Bakrakha "
+"!! Tu ne nous a donné ni vivres ni terres ! Et quiconque : moi, Asknak ou "
+"même une liche aurait été plus généreux que toi !"
 
 #. [message]: id=Asknak
 #: Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:162
@@ -2685,68 +2685,48 @@ msgstr ""
 msgid "The Swampland"
 msgstr "Les Marécages"
 
-#. [message]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:307
-msgid "You win!"
-msgstr "Vous avez gagné!"
-
-#. [message]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:308
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:329
-msgid ""
-"You: $side_1_units.length\n"
-"Othello: $side_2_units.length"
-msgstr ""
-"Vous: $side_1_units.length\n"
-"Othello: $side_2_units.length"
-
-#. [message]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:328
-msgid "You lost."
-msgstr "Vous avez perdu."
-
 #. [side]: id=Othello, type=Necromancer
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:377
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:43
 msgid "Othello"
 msgstr "Othello"
 
 #. [side]: id=Othello, type=Necromancer
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:383
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:49
 msgid "Crazy Horse"
 msgstr ""
 
 #. [objectives]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:409
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:76
 msgid "Play a game of Reversi with Othello"
 msgstr "Jouer un jeu de Reversi avec Othello"
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:411
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:78
 msgid "Capture more units than Othello does"
 msgstr "Capture plus d'unités que Othello"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:415
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:82
 msgid "Othello finish with more units"
 msgstr "Othello terminer par plusieurs unités"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:420
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:87
 msgid "You lose <b>both</b> Madru and Black the Red"
 msgstr "Vous perdez <b> tant</b> Madru et Black le Rouge"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:426
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:93
 msgid "You lose <b>either</b> Madru or Black the Red"
 msgstr "Vous perdez <b> ni</b> Madru ou Black le Rouge"
 
 #. [objectives]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:430
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:97
 msgid "<b>How to Play</b>"
 msgstr "<b>Comment jouer</b>"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:432
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:99
 msgid ""
 "A move is valid if Othello's units will be between two of yours. To place a "
 "unit on the board:"
@@ -2755,43 +2735,48 @@ msgstr ""
 "placer une unité sur la carte:"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:435
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:102
 msgid "(1) Move Meneldur to a ruined castle at the bottom to select the column"
 msgstr ""
 "(1) Déplacez Meneldur à un château en ruine au fond pour sélectionner la "
 "colonne"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:438
-msgid ""
-"(2) Move Meneldur again to a ruined castle now at the left to select the row"
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:105
+#, fuzzy
+msgid "(2) Move Meneldur to a ruined castle at the left to select the row"
 msgstr ""
 "(2) Déplacer Meneldur à nouveau pour un château en ruine à la gauche pour "
 "sélectionner la ligne"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:441
-msgid "(3) If the move is valid an unit will be recalled at the given place"
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:108
+#, fuzzy
+msgid "(3) If the move is valid an unit will be recalled at the interception"
 msgstr "(3) Si le coup est valide une unité sera rappelé à l'endroit indiqué"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:444
-msgid "(4) And any enemy units standing between two of yours will swap side."
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:111
+#, fuzzy
+msgid ""
+"(4) Any enemy units standing between the newly created and another of the "
+"same side will swap side."
 msgstr ""
 "(4) Et toutes les unités ennemies debout entre deux de vos va troquer de "
 "côté."
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:447
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:114
+#, fuzzy
 msgid ""
-"(5) The game continues until the board is full, or neither leader could do a "
+"(5) The game continues until the board is full, or neither leader can do a "
 "move."
 msgstr ""
 "(5) Le jeu se poursuit jusqu'à la carte est plein, ou des deux dirigeants "
 "pourraient ne faire pas un mouvement."
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:471
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:143
 msgid ""
 "What is this, a mage walks clad in black? Explain yourself! Are you of the "
 "red mages, or the white?"
@@ -2800,7 +2785,7 @@ msgstr ""
 "vous aux magiciens rouges, ou aux blancs ?"
 
 #. [message]: id=Othello
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:475
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:148
 msgid ""
 "What? Do you mean to tell me that the great lich Jevyan does not reign on "
 "that continent, or that his mages no longer wear the robes of the "
@@ -2811,7 +2796,7 @@ msgstr ""
 "nécromanciens ?!?"
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:486
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:153
 msgid ""
 "What? Why do you speak of those old tales as if they were real? And I "
 "suppose you think you are a real necromancer too."
@@ -2820,7 +2805,7 @@ msgstr ""
 "vraies ? Je suppose que vous pensez même être un authentique nécromancien."
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:490
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:163
 msgid ""
 "Why do you say he's not a necromancer? I've seen them before, haven't you?"
 msgstr ""
@@ -2828,12 +2813,12 @@ msgstr ""
 "toi ?"
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:494
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:173
 msgid "Are you saying undead exist?"
 msgstr "Tu veux dire que les morts-vivants existent ?"
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:498
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:177
 msgid ""
 "Yes. And this guy looks real enough. I think we should treat him like an "
 "actual enemy."
@@ -2842,12 +2827,12 @@ msgstr ""
 "véritable adversaire !!"
 
 #. [message]: id=Othello
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:502
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:181
 msgid "Yes, you should! Now, prepare to die!"
 msgstr "En effet, vous feriez mieux ! Préparez-vous à mourir !"
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:506
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:185
 msgid ""
 "Whatever. We will see if he actually can raise anything, and if we come out "
 "of here."
@@ -2856,7 +2841,7 @@ msgstr ""
 "si nous sortons d'ici."
 
 #. [message]: id=Othello
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:553
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:260
 msgid ""
 "Impressive. You were able to storm my game. May I join you on your quest?"
 msgstr ""
@@ -2864,31 +2849,52 @@ msgstr ""
 "rejoindre dans votre quête?"
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:557
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:264
 msgid "Err"
 msgstr "Err"
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:561
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:268
 msgid "Sure, we need any willing hand"
 msgstr "Bien sûr, nous devons toute la main disposé"
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:567
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:274
 msgid "That was a weird battle..."
 msgstr "Ce fut une bataille bizarre..."
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:571
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:278
 msgid "... in the magic castle."
 msgstr "...dans le château magique."
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:575
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:282
 msgid "Look, we have gain more soldiers for our quest. Wy did you complain?"
 msgstr ""
 "Regardez, nous avons gagner plus de soldats pour notre quête. Pourquoi vous "
 "plaignez-vous?"
+
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:669
+msgid "You win!"
+msgstr "Vous avez gagné!"
+
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:670
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:683
+#, fuzzy
+msgid ""
+"You: $own_units.length\n"
+"Othello: $enemy_units.length"
+msgstr ""
+"Vous: $side_1_units.length\n"
+"Othello: $side_2_units.length"
+
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:682
+msgid "You lost."
+msgstr "Vous avez perdu."
 
 #. [scenario]: id=sea_voyage_orc_mountain
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:6
@@ -2997,8 +3003,8 @@ msgid ""
 "They've found us! Workers, get that boat out of here! We will secure time "
 "for your escape."
 msgstr ""
-"Ils nous ont trouvés ! Du nerf, travailleurs, emportez ce bateau loin "
-"d'ici ! Nous couvrirons votre fuite."
+"Ils nous ont trouvés ! Du nerf, travailleurs, emportez ce bateau loin d'ici "
+"! Nous couvrirons votre fuite."
 
 #. [message]: speaker=second_unit
 #: Saving_Elensefar/scenarios/i3-1_Theft.cfg:255
@@ -3602,9 +3608,9 @@ msgid ""
 "usually help in return for gold. I need to ask your aid. We are in a "
 "desperate situation - we will all die you do not help us!"
 msgstr ""
-"Je le sais. Mais il n'y a pas que des elfes parmi vous... il y a des "
-"humains ; lorsqu'ils nous aident, nous leur donnons de l'or en échange. J'ai "
-"besoin de vous, notre situation est désespérée, nous allons mourir..."
+"Je le sais. Mais il n'y a pas que des elfes parmi vous... il y a des humains "
+"; lorsqu'ils nous aident, nous leur donnons de l'or en échange. J'ai besoin "
+"de vous, notre situation est désespérée, nous allons mourir..."
 
 #. [message]: id=Madru
 #: Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:154
@@ -4511,31 +4517,3 @@ msgstr "Baril de grog"
 #, fuzzy
 msgid "Ship Dock"
 msgstr "Naufragé"
-
-#~ msgid "Capture 6 villages"
-#~ msgstr "Capturez 6 villages"
-
-#~ msgid "Capture at least 6 villages to restock your ship"
-#~ msgstr "Capturez d'au moins 6 villages pour réapprovisionner votre bateau"
-
-#~ msgid "Orcs! Kill them!"
-#~ msgstr "Orcs ! Tuez-les !"
-
-#~ msgid "Yks"
-#~ msgstr "Yks"
-
-#~ msgid "Battle Tutor"
-#~ msgstr "Tuteur de bataille"
-
-#, fuzzy
-#~ msgid ""
-#~ "This unit's ability to teach battle skills gives each adjacent allied "
-#~ "unit a small boost to his experience earned in battle."
-#~ msgstr ""
-#~ "Tuteur de Bataille:\n"
-#~ "La capacité de cette unité pour enseigner les compétences de combat donne "
-#~ "à chaque unité adjacente alliés une petite poussée à son expérience "
-#~ "gagnés dans la bataille."
-
-#~ msgid "Elensefar's Loyalists"
-#~ msgstr "Loyalistes d'Elensefar"

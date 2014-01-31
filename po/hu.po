@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.10\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-31 17:58+0000\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2014-01-31 15:05+0000\n"
 "PO-Revision-Date: 2011-11-27 12:57+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
@@ -49,13 +49,13 @@ msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:32
-msgid "(easiest)"
-msgstr "(legkönnyebb)"
+msgid "Mariner"
+msgstr "Tengerész"
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:32
-msgid "Mariner"
-msgstr "Tengerész"
+msgid "(easiest)"
+msgstr "(legkönnyebb)"
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:33
@@ -73,7 +73,7 @@ msgid "(hardest)"
 msgstr "(legnehezebb)"
 
 #. [editor_group]: id=set
-#: Saving_Elensefar/_main.cfg:61
+#: Saving_Elensefar/_main.cfg:65
 msgid "Saving Elensefar Terrain"
 msgstr "Elensefar felszabadítása terep"
 
@@ -2615,68 +2615,48 @@ msgstr ""
 msgid "The Swampland"
 msgstr "Mocsár"
 
-#. [message]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:307
-msgid "You win!"
-msgstr "Nyertél!"
-
-#. [message]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:308
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:329
-msgid ""
-"You: $side_1_units.length\n"
-"Othello: $side_2_units.length"
-msgstr ""
-"Te: $side_1_units.length\n"
-"Othello: $side_2_units.length"
-
-#. [message]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:328
-msgid "You lost."
-msgstr "Vesztettél."
-
 #. [side]: id=Othello, type=Necromancer
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:377
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:43
 msgid "Othello"
 msgstr "Othello"
 
 #. [side]: id=Othello, type=Necromancer
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:383
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:49
 msgid "Crazy Horse"
 msgstr "Őrült Ló"
 
 #. [objectives]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:409
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:76
 msgid "Play a game of Reversi with Othello"
 msgstr "Reversit játszol Othello ellen"
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:411
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:78
 msgid "Capture more units than Othello does"
 msgstr "Több egységed lesz a játék végén, mint Othellonak"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:415
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:82
 msgid "Othello finish with more units"
 msgstr "A végén Othellonak lesz több egysége"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:420
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:87
 msgid "You lose <b>both</b> Madru and Black the Red"
 msgstr "Elveszted Madrut  <b>és</b>Véreskezű Kalózt is"
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:426
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:93
 msgid "You lose <b>either</b> Madru or Black the Red"
 msgstr "Vagy Madrut, vagy Véreskezű Kalózt elveszted"
 
 #. [objectives]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:430
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:97
 msgid "<b>How to Play</b>"
 msgstr "<b>Játékszabályok</b>"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:432
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:99
 msgid ""
 "A move is valid if Othello's units will be between two of yours. To place a "
 "unit on the board:"
@@ -2685,44 +2665,49 @@ msgstr ""
 "egységét. Egység elhelyezése a terepen:"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:435
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:102
 msgid "(1) Move Meneldur to a ruined castle at the bottom to select the column"
 msgstr ""
 "(1)Mozgasd Meneldurt egy romos várkastélyra az alsó sorban, hogy kiválaszd a "
 "megfelelő oszlopot"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:438
-msgid ""
-"(2) Move Meneldur again to a ruined castle now at the left to select the row"
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:105
+#, fuzzy
+msgid "(2) Move Meneldur to a ruined castle at the left to select the row"
 msgstr ""
 "(2)Mozgasd meneldurt a bal oldali oszlopban egy romos várkastélyhoz, hogy "
 "kiválaszd a megfelelő sort"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:441
-msgid "(3) If the move is valid an unit will be recalled at the given place"
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:108
+#, fuzzy
+msgid "(3) If the move is valid an unit will be recalled at the interception"
 msgstr ""
 "(3)Ha a lépés megfelelő, egy egység lesz a metszéspontba helyezve a "
 "visszahívási sorból"
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:444
-msgid "(4) And any enemy units standing between two of yours will swap side."
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:111
+#, fuzzy
+msgid ""
+"(4) Any enemy units standing between the newly created and another of the "
+"same side will swap side."
 msgstr ""
 "(4)Bármely ellenséges egység, amely két egységed közé kerül, oldalt vált."
 
 #. [note]
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:447
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:114
+#, fuzzy
 msgid ""
-"(5) The game continues until the board is full, or neither leader could do a "
+"(5) The game continues until the board is full, or neither leader can do a "
 "move."
 msgstr ""
 "(5) A játék addig folytatódik, míg a tábla meg nem telik, vagy amíg van "
 "érvényes lépése valamelyik vezérnek."
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:471
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:143
 msgid ""
 "What is this, a mage walks clad in black? Explain yourself! Are you of the "
 "red mages, or the white?"
@@ -2731,7 +2716,7 @@ msgstr ""
 "vagy, vagy pedig fehér?"
 
 #. [message]: id=Othello
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:475
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:148
 msgid ""
 "What? Do you mean to tell me that the great lich Jevyan does not reign on "
 "that continent, or that his mages no longer wear the robes of the "
@@ -2741,7 +2726,7 @@ msgstr ""
 "kontinensen, vagy hogy a mágusai nem viselik a holtidézők köpönyegét?"
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:486
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:153
 msgid ""
 "What? Why do you speak of those old tales as if they were real? And I "
 "suppose you think you are a real necromancer too."
@@ -2750,18 +2735,18 @@ msgstr ""
 "magadat valódi holtidézőnek hiszed."
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:490
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:163
 msgid ""
 "Why do you say he's not a necromancer? I've seen them before, haven't you?"
 msgstr "Miért mondod, hogy nem az? Én már láttam a fajtáját korábban is."
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:494
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:173
 msgid "Are you saying undead exist?"
 msgstr "Azt állítod, hogy léteznek élőholtak?"
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:498
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:177
 msgid ""
 "Yes. And this guy looks real enough. I think we should treat him like an "
 "actual enemy."
@@ -2770,12 +2755,12 @@ msgstr ""
 "ellenségünk."
 
 #. [message]: id=Othello
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:502
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:181
 msgid "Yes, you should! Now, prepare to die!"
 msgstr "Igen, a következő. Akkor készülj a halálra!"
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:506
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:185
 msgid ""
 "Whatever. We will see if he actually can raise anything, and if we come out "
 "of here."
@@ -2784,35 +2769,56 @@ msgstr ""
 "innen valaha is."
 
 #. [message]: id=Othello
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:553
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:260
 msgid ""
 "Impressive. You were able to storm my game. May I join you on your quest?"
 msgstr "Lenyűgöző! Képes voltál lenullázni. Csatlakozhatnék hozzátok?"
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:557
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:264
 msgid "Err"
 msgstr "Hááát"
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:561
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:268
 msgid "Sure, we need any willing hand"
 msgstr "Természetesen, szükség van minden segítő kézre"
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:567
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:274
 msgid "That was a weird battle..."
 msgstr "Hátborzongató csata volt..."
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:571
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:278
 msgid "... in the magic castle."
 msgstr "... egy mágus kastélyában."
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:575
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:282
 msgid "Look, we have gain more soldiers for our quest. Wy did you complain?"
 msgstr "Nézd, újabb harcosokat szereztünk a küldetésünkhöz. Miért panaszkodsz?"
+
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:669
+msgid "You win!"
+msgstr "Nyertél!"
+
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:670
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:683
+#, fuzzy
+msgid ""
+"You: $own_units.length\n"
+"Othello: $enemy_units.length"
+msgstr ""
+"Te: $side_1_units.length\n"
+"Othello: $side_2_units.length"
+
+#. [message]
+#: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:682
+msgid "You lost."
+msgstr "Vesztettél."
 
 #. [scenario]: id=sea_voyage_orc_mountain
 #: Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:6
@@ -4394,24 +4400,3 @@ msgstr "Grogos hordó"
 #: Saving_Elensefar/utils/terrain.cfg:26
 msgid "Ship Dock"
 msgstr "Hajódokk"
-
-#~ msgid "Capture 6 villages"
-#~ msgstr "Elfoglalsz 6 falut"
-
-#~ msgid "I found some provision!"
-#~ msgstr "Találtam némi ellátmányt!"
-
-#~ msgid "Capture at least 6 villages to restock your ship"
-#~ msgstr "Elfoglalsz legalább 6 falut, hogy feltöltsd a készleteket"
-
-#~ msgid "We now have $turnsleft| provisions"
-#~ msgstr "Már van $turnsleft| adag készletünk"
-
-#~ msgid "Orcs! Kill them!"
-#~ msgstr "Orkok! Öljétek meg őket!"
-
-#~ msgid "Yks"
-#~ msgstr "Hopp"
-
-#~ msgid "Elensefar's Loyalists"
-#~ msgstr "Elensefari hazafiak"
