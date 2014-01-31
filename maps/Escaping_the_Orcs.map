@@ -1,9 +1,9 @@
 border_size=1
 usage=map
 
-Ce, Ce, Ce, Ce, Rb, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
-Ce, Ce, 1 Ke, Ce, Gg, Xol, Xol, Xol, Xol, Xol, 2 Kud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
-Ce, Ce, Ce, Ce, Gg, Xol, Xol, Xol, Xol, Cud, Cud, Rd, Rd, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gs, Gs, Gs, Gs, Rb, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gs, 1 Ke, Ce, Ce, Gg, Xol, Xol, Xol, Xol, Xol, 2 Kud, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
+Gs, Ce, Ce, Ke, Gg, Xol, Xol, Xol, Xol, Cud, Cud, Rd, Rd, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol, Xol
 Gg, Rb^Vct, Rrc, Rrc, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Gg, Rd, Gg, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
 Gg, Rb, Rrc, Rrc, Gg, Gg, Gg, Xol, Gg, Xol, Gg, Xol, Gg, Rd, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
 Gg, Gg, Rrc, Rrc, Rrc, Gg^Fet, Rrc, Gg, Rrc, Gg, Rrc, Gg, Rrc, Rd, Gg, Xol, Xol, Xol, Xol, Xol, Xol, Xol
