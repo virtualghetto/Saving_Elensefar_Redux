@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-01-31 15:05+0000\n"
+"POT-Creation-Date: 2014-02-03 13:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,12 +55,12 @@ msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:34
-msgid "Admiral"
+msgid "(hardest)"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:34
-msgid "(hardest)"
+msgid "Admiral"
 msgstr ""
 
 #. [editor_group]: id=set
@@ -1973,7 +1973,7 @@ msgstr ""
 #. [message]
 #: Saving_Elensefar/scenarios/i1_The_Swampland.cfg:670 Saving_Elensefar/scenarios/i1_The_Swampland.cfg:683
 msgid ""
-"You: $own_units.length\n"
+"Meneldur: $own_units.length\n"
 "Othello: $enemy_units.length"
 msgstr ""
 
