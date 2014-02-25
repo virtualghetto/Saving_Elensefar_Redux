@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Saving_Elensefar-1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-03 13:57+0000\n"
+"POT-Creation-Date: 2014-02-25 13:30+0000\n"
 "PO-Revision-Date: 2011-11-27 12:57+0100\n"
 "Last-Translator: Kelemen Zoltan <kelemen_zoltan@freemail.hu>\n"
 "Language-Team: none\n"
@@ -42,12 +42,12 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
-msgid "Mariner"
-msgstr "Tengerész"
-
-#. [campaign]: id=saving_elensefar
 msgid "(easiest)"
 msgstr "(legkönnyebb)"
+
+#. [campaign]: id=saving_elensefar
+msgid "Mariner"
+msgstr "Tengerész"
 
 #. [campaign]: id=saving_elensefar
 msgid "Navigator"

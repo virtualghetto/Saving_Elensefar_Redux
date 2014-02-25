@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-03 13:57+0000\n"
+"POT-Creation-Date: 2014-02-25 13:30+0000\n"
 "PO-Revision-Date: 2013-12-31 18:24+0100\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,15 +58,15 @@ msgstr ""
 # File: Saving_Elensefar/_main.cfg, line: 36
 # File: Saving_Elensefar/_main.cfg, line: 32
 #. [campaign]: id=saving_elensefar
-msgid "Mariner"
-msgstr "Nauta"
+msgid "(easiest)"
+msgstr "(facillimus)"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 36
 # File: Saving_Elensefar/_main.cfg, line: 32
 #. [campaign]: id=saving_elensefar
-msgid "(easiest)"
-msgstr "(facillimus)"
+msgid "Mariner"
+msgstr "Nauta"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 37

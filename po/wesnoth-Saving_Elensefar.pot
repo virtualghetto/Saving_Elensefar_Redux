@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-03 13:57+0000\n"
+"POT-Creation-Date: 2014-02-25 13:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -40,12 +40,12 @@ msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:32
-msgid "Mariner"
+msgid "(easiest)"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:32
-msgid "(easiest)"
+msgid "Mariner"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
@@ -152,7 +152,7 @@ msgstr ""
 #. [message]: id=The_Explorer
 #. [message]: speaker=narrator
 #. [unit]: type=Sailor, id=Madru
-#: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:87 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:391 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:400 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:428 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:441 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:450 Saving_Elensefar/utils/gold_carryover.cfg:101 Saving_Elensefar/utils/gold_carryover.cfg:114 Saving_Elensefar/utils/gold_carryover.cfg:167 Saving_Elensefar/utils/gold_carryover.cfg:175
+#: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:87 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:416 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:425 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:453 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:466 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:475 Saving_Elensefar/utils/gold_carryover.cfg:101 Saving_Elensefar/utils/gold_carryover.cfg:114 Saving_Elensefar/utils/gold_carryover.cfg:167 Saving_Elensefar/utils/gold_carryover.cfg:175
 msgid "Madru"
 msgstr ""
 
@@ -168,12 +168,12 @@ msgid "Move Meneldur and Madru to the Explorer (southwest of the map)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:251 Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:92 Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:129 Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:159 Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:70 Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:48 Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:51 Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:111 Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:50 Saving_Elensefar/scenarios/i16_Goblins.cfg:44 Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:292 Saving_Elensefar/scenarios/i18_Cave_illien.cfg:88 Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:52 Saving_Elensefar/scenarios/i3-1_Theft.cfg:46 Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:78 Saving_Elensefar/scenarios/i5_Fire_Island.cfg:219 Saving_Elensefar/scenarios/i6_Traitors.cfg:51 Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:68 Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:60 Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:48 Saving_Elensefar/scenarios/r_Sea_Battle.cfg:89
+#: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:251 Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:92 Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:129 Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:159 Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:70 Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:48 Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:75 Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:111 Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:50 Saving_Elensefar/scenarios/i16_Goblins.cfg:44 Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:292 Saving_Elensefar/scenarios/i18_Cave_illien.cfg:88 Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:52 Saving_Elensefar/scenarios/i3-1_Theft.cfg:46 Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:78 Saving_Elensefar/scenarios/i5_Fire_Island.cfg:219 Saving_Elensefar/scenarios/i6_Traitors.cfg:51 Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:68 Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:60 Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:48 Saving_Elensefar/scenarios/r_Sea_Battle.cfg:89
 msgid "Death of Meneldur"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:255 Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:96 Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:133 Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:163 Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:74 Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:52 Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:55 Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:115 Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:54 Saving_Elensefar/scenarios/i16_Goblins.cfg:48 Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:296 Saving_Elensefar/scenarios/i18_Cave_illien.cfg:92 Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:56 Saving_Elensefar/scenarios/i3-1_Theft.cfg:50 Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:82 Saving_Elensefar/scenarios/i5_Fire_Island.cfg:223 Saving_Elensefar/scenarios/i6_Traitors.cfg:55 Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:72 Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:64 Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:52 Saving_Elensefar/scenarios/r_Sea_Battle.cfg:93
+#: Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:255 Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:96 Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:133 Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:163 Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:74 Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:52 Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:79 Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:115 Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:54 Saving_Elensefar/scenarios/i16_Goblins.cfg:48 Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:296 Saving_Elensefar/scenarios/i18_Cave_illien.cfg:92 Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:56 Saving_Elensefar/scenarios/i3-1_Theft.cfg:50 Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:82 Saving_Elensefar/scenarios/i5_Fire_Island.cfg:223 Saving_Elensefar/scenarios/i6_Traitors.cfg:55 Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:72 Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:64 Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:52 Saving_Elensefar/scenarios/r_Sea_Battle.cfg:93
 msgid "Death of Madru"
 msgstr ""
 
@@ -226,7 +226,7 @@ msgstr ""
 
 #. [message]: id=Explorer
 #. [side]: id=Black the Red, type=SE Shadow Mage
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:22 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:465
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:22 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:490
 msgid "Black the Red"
 msgstr ""
 
@@ -241,12 +241,12 @@ msgid "Aldran"
 msgstr ""
 
 #. [objective]: condition=win
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:88 Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:44 Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:47 Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:46 Saving_Elensefar/scenarios/i16_Goblins.cfg:40 Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:48 Saving_Elensefar/scenarios/i3-1_Theft.cfg:42 Saving_Elensefar/scenarios/i6_Traitors.cfg:47 Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:56 Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:44 Saving_Elensefar/scenarios/r_Sea_Battle.cfg:85
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:88 Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:44 Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:71 Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:46 Saving_Elensefar/scenarios/i16_Goblins.cfg:40 Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:48 Saving_Elensefar/scenarios/i3-1_Theft.cfg:42 Saving_Elensefar/scenarios/i6_Traitors.cfg:47 Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:56 Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:44 Saving_Elensefar/scenarios/r_Sea_Battle.cfg:85
 msgid "Defeat enemy leader"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:100 Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:137 Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:167 Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:78 Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:56 Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:59 Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:119 Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:58 Saving_Elensefar/scenarios/i16_Goblins.cfg:52 Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:300 Saving_Elensefar/scenarios/i18_Cave_illien.cfg:96 Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:60 Saving_Elensefar/scenarios/i3-1_Theft.cfg:54 Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:86 Saving_Elensefar/scenarios/i5_Fire_Island.cfg:227 Saving_Elensefar/scenarios/i6_Traitors.cfg:59 Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:76 Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:68 Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:56 Saving_Elensefar/scenarios/r_Sea_Battle.cfg:97
+#: Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:100 Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:137 Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:167 Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:78 Saving_Elensefar/scenarios/i11_Off_the_Peninsula.cfg:56 Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:83 Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:119 Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:58 Saving_Elensefar/scenarios/i16_Goblins.cfg:52 Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:300 Saving_Elensefar/scenarios/i18_Cave_illien.cfg:96 Saving_Elensefar/scenarios/i2_Orc_Mountain.cfg:60 Saving_Elensefar/scenarios/i3-1_Theft.cfg:54 Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:86 Saving_Elensefar/scenarios/i5_Fire_Island.cfg:227 Saving_Elensefar/scenarios/i6_Traitors.cfg:59 Saving_Elensefar/scenarios/i7_Deadly_Alliance.cfg:76 Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:68 Saving_Elensefar/scenarios/i9_Wesnothian_Forces.cfg:56 Saving_Elensefar/scenarios/r_Sea_Battle.cfg:97
 msgid "Death of Black the Red"
 msgstr ""
 
@@ -791,7 +791,7 @@ msgid "Chasers"
 msgstr ""
 
 #. [unit]: id=Explorer, type=Black Galleon
-#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:94 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:262
+#: Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:94 Saving_Elensefar/scenarios/r_The_High_Seas.cfg:263
 msgid "The Explorer"
 msgstr ""
 
@@ -1277,47 +1277,47 @@ msgid "Sea Hawks"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:98
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:122
 msgid "I found a treasure! I count at least 500 gold pieces"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:133
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:157
 msgid "I see there are more undead! I wonder how many of these did not go all the way across with Jevyan?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:137
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:161
 msgid "I have seen several of these wandering undead where I come from. Haven't you?"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:141
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:165
 msgid "Mostly I travel south to the southern continent, not west like this. There are no undead there!"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:145
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:169
 msgid "I see..."
 msgstr ""
 
 #. [message]: id=Kar-Salazz
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:149
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:173
 msgid "Sssooo.... youu hazntt foughtt me oftenzz? Ahhh, gooodd. You will be eazyy to defeatzz!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:153
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:177
 msgid "Why did he speak like a lizard?"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:174
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:198
 msgid "What the...?"
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:178
+#: Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:202
 msgid "That must be why he spoke like that. He is partly a lizard!"
 msgstr ""
 
@@ -2666,117 +2666,117 @@ msgid "Take more than 30 weeks to reach the western lands"
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:287
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:288
 msgid "There does not seem to be anyone living on this island... except, it seems, that black-cowled man on the far side..."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:288
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:289
 msgid "Last time I was here there was a trading colony, but it seems to be gone. Their old stockades should still be here, anyway."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:289
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:290
 msgid "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:290
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:291
 msgid "I think something is in the water..."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:291
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:292
 msgid "This island looks vaguely elvish."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:292
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:293
 msgid "Nagas were about a hundred years ago, in Haldric's time! I wonder if any remain..."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:293
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:294
 msgid "Does anything live in this frozen wasteland?"
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:294
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:295
 msgid "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there are any humans left."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:295
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:296
 msgid "The Great Academy of Alduin is settled on this isle! Let us hold here for a day or two."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:296
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:297
 msgid "This is just an abandoned smugglers hole."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:297
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:298
 msgid "Carefull with those riffs, or we will shipwreck"
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:298
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:299
 msgid "Legend says Haldric landed here on his journey over, and that he fought something. Lets hope we don't have to fight whatever it was..."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:299
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:300
 msgid "This island has nothing of interest."
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:300
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:301
 msgid "There is a great tower on the isle. Which kind of mage live here?"
 msgstr ""
 
 #. [event]
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:301
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:302
 msgid "This is the land I was talking about. Land here, and we will get the warriors we need."
 msgstr ""
 
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:355
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:380
 msgid "This island has no more enemies on it, but we can still reprovision here. That will still take time, though."
 msgstr ""
 
 #. [message]: speaker=Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:368
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:393
 msgid "We have unfinished business to attend to."
 msgstr ""
 
 #. [message]: id=Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:393
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:418
 msgid "We have left Elensefar in the hands of the orcs. If we do not return soon, it will be of no use to return at all. We have at most 30 weeks to get to the western lands, where we will meet with the people Black the Red has spoken of. That will leave us with 5 weeks to get back."
 msgstr ""
 
 #. [message]: id=The_Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:402
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:427
 msgid "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we must either land on an island or capture an enemy ship ever 6 weeks."
 msgstr ""
 
 #. [message]: id=Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:430
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:455
 msgid "We have ran out of provisions.... *urgh*"
 msgstr ""
 
 #. [message]: id=Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:443
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:468
 msgid "Hurry, we are down to our last provisions! If we don't refill them within a week, we will all starve!"
 msgstr ""
 
 #. [message]: id=Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:452
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:477
 msgid "We only have enough provisions for $turnsleft weeks; we must reach the Western Lands in $gameleft weeks."
 msgstr ""
 
 #. [message]: id=Explorer
-#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:467
+#: Saving_Elensefar/scenarios/r_The_High_Seas.cfg:492
 msgid "We have failed reaching the Westlands in time."
 msgstr ""
 
