@@ -30,3 +30,4 @@ _info.cfg
 *.xcf
 *.tmp
 *.log
+.*
