@@ -31,3 +31,4 @@ _info.cfg
 *.tmp
 *.log
 .*
+po/
