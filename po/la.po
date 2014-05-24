@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-25 13:30+0000\n"
+"POT-Creation-Date: 2014-05-24 17:18+0100\n"
 "PO-Revision-Date: 2013-12-31 18:24+0100\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,15 +79,15 @@ msgstr "Naviganti"
 # File: Saving_Elensefar/_main.cfg, line: 38
 # File: Saving_Elensefar/_main.cfg, line: 34
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(difficillima)"
+msgid "Admiral"
+msgstr "Admirallo"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 38
 # File: Saving_Elensefar/_main.cfg, line: 34
 #. [campaign]: id=saving_elensefar
-msgid "Admiral"
-msgstr "Admirallo"
+msgid "(hardest)"
+msgstr "(difficillima)"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 70
@@ -2741,7 +2741,7 @@ msgstr "Nos auxilium vobis"
 # File: Saving_Elensefar/scenarios/i15_Alduin.cfg, line: 166
 #. [message]: id=Madru
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #
 # File: Saving_Elensefar/scenarios/i15_Alduin.cfg, line: 170
@@ -3807,7 +3807,7 @@ msgstr "Kalandur"
 
 #. [objectives]
 msgid "Gold carryover:"
-msgstr ""
+msgstr "Aurei retenturi:"
 
 #. [note]
 msgid ""

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-25 13:30+0000\n"
+"POT-Creation-Date: 2014-05-24 17:18+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,12 +55,12 @@ msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:34
-msgid "(hardest)"
+msgid "Admiral"
 msgstr ""
 
 #. [campaign]: id=saving_elensefar
 #: Saving_Elensefar/_main.cfg:34
-msgid "Admiral"
+msgid "(hardest)"
 msgstr ""
 
 #. [editor_group]: id=set
@@ -3029,42 +3029,42 @@ msgid "This unit can inspire *allied* units that are next to it, making them do 
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Saving_Elensefar/utils/cutscenes.cfg:28
+#: Saving_Elensefar/utils/cutscenes.cfg:100
 msgid "Do you really want to run away?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Saving_Elensefar/utils/cutscenes.cfg:30
+#: Saving_Elensefar/utils/cutscenes.cfg:102
 msgid "Yes"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/utils/cutscenes.cfg:34
+#: Saving_Elensefar/utils/cutscenes.cfg:106
 msgid "Fall back!"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: Saving_Elensefar/utils/cutscenes.cfg:59
+#: Saving_Elensefar/utils/cutscenes.cfg:131
 msgid "No"
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/utils/cutscenes.cfg:63
+#: Saving_Elensefar/utils/cutscenes.cfg:135
 msgid "Fight on!"
 msgstr ""
 
 #. [message]: id=Madru
-#: Saving_Elensefar/utils/cutscenes.cfg:207
+#: Saving_Elensefar/utils/cutscenes.cfg:279
 msgid "Remember we can retreat at any time, just move your leader to the ship."
 msgstr ""
 
 #. [message]: id=Black the Red
-#: Saving_Elensefar/utils/cutscenes.cfg:211
+#: Saving_Elensefar/utils/cutscenes.cfg:283
 msgid "But then we haven't time to refill our ship..."
 msgstr ""
 
 #. [message]: id=Meneldur
-#: Saving_Elensefar/utils/cutscenes.cfg:215
+#: Saving_Elensefar/utils/cutscenes.cfg:287
 msgid "I hope it would never be needed."
 msgstr ""
 
@@ -3174,7 +3174,7 @@ msgid "Grog Barrel"
 msgstr ""
 
 #. [terrain_type]: id=SE_ShipDock
-#: Saving_Elensefar/utils/terrain.cfg:26
+#: Saving_Elensefar/utils/terrain.cfg:22
 msgid "Ship Dock"
 msgstr ""
 

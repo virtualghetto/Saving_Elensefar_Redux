@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-25 13:30+0000\n"
+"POT-Creation-Date: 2014-05-24 17:18+0100\n"
 "PO-Revision-Date: 2013-12-31 18:06+0100\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -58,12 +58,12 @@ msgid "Navigator"
 msgstr "Navigator"
 
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(fordernd)"
-
-#. [campaign]: id=saving_elensefar
 msgid "Admiral"
 msgstr "Admiral"
+
+#. [campaign]: id=saving_elensefar
+msgid "(hardest)"
+msgstr "(fordernd)"
 
 #. [editor_group]: id=set
 msgid "Saving Elensefar Terrain"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-25 13:30+0000\n"
+"POT-Creation-Date: 2014-05-24 17:18+0100\n"
 "PO-Revision-Date: 2014-02-03 14:42+0100\n"
 "Last-Translator: trewe <sjrs456@yandex.com>\n"
 "Language-Team: none\n"
@@ -84,15 +84,15 @@ msgstr "Navegador"
 # File: Saving_Elensefar/_main.cfg, line: 38
 # File: Saving_Elensefar/_main.cfg, line: 34
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(Difícil)"
+msgid "Admiral"
+msgstr "Almirante"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 38
 # File: Saving_Elensefar/_main.cfg, line: 34
 #. [campaign]: id=saving_elensefar
-msgid "Admiral"
-msgstr "Almirante"
+msgid "(hardest)"
+msgstr "(Difícil)"
 
 #
 # File: Saving_Elensefar/_main.cfg, line: 70

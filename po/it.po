@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: saving-elensefar-it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2014-02-25 13:30+0000\n"
+"POT-Creation-Date: 2014-05-24 17:18+0100\n"
 "PO-Revision-Date: 2011-09-25 21:08+0100\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -59,12 +59,12 @@ msgid "Navigator"
 msgstr "Navigatore"
 
 #. [campaign]: id=saving_elensefar
-msgid "(hardest)"
-msgstr "(difficile)"
-
-#. [campaign]: id=saving_elensefar
 msgid "Admiral"
 msgstr "Ammiraglio"
+
+#. [campaign]: id=saving_elensefar
+msgid "(hardest)"
+msgstr "(difficile)"
 
 #. [editor_group]: id=set
 #, fuzzy
