@@ -157,13 +157,28 @@ v1.5.7~RC1
  - tweaked AI
  - replaced some graphics
 
+v1.6.0
+ - balance
+ - graphic update
+ - release on the 1.12 server
+
+v1.6.1
+ - Bugfixes
+ - added Pirate and Orcish Ships to the main map
+ - replaced orcs with khalifate in 'ruined port'
+ - overview of recruitlists and tweaked them according to improved AI behaviour
+
+x1.6.2
+ - Bugfixes
+ - translations
+ - changed mechanic of Battletutor skill
+
 # TODO
- ! Balance is off
  - alduin, caves and saurian trap need story
  - dialogue redo on 'The Swampland' and 'Illaryan..'
- - change 'Off the Peninsula'
- - finaly implement story images
+ ? change 'Off the Peninsula'
+ ¥ finaly implement story images
+ - looking for remaing balance blooders (especially gold carryover)
+ ? simplify gold carryover
 
-## trewe - sjrs456 at yahoo dot fr ##
-
-# Elvish Civilian: male (fighter,archer), female (archer,scout)
+### trewe — sjrs456 at yahoo dot fr ###
