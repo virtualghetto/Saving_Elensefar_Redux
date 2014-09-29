@@ -45,72 +45,73 @@ Changes:
 
 * fixed outdated "barrel" terrain
 
-------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
 ###################################################################################
 -----------------------------------------------------------------------------------
 
-Version 1.3
+New maintainer: trewe
 
-- campaign necromancy
-- update to bfw 1.8.4
-- get rid of duplicate images
-- set up ai behaviour
-- added income in big battles for ai
-- shadow mage/lord updated
-- recoded hight seas
-- set ai behaviou in siege of elensefar to fit siege scenario
+v1.3
+ - campaign necromancy
+ - update to bfw 1.8.4
+ - get rid of duplicate images
+ - set up ai behaviour
+ - added income in big battles for ai
+ - shadow mage/lord updated
+ - recoded hight seas
+ - set ai behaviou in siege of elensefar to fit siege scenario
 
 v1.3.2
-- fixed an capture-village macro
-- added id to the campaign (...)
-- update to 1.9
-- switch sighted events to moveto's
-- update translation (german)
+ - fixed an capture-village macro
+ - added id to the campaign (...)
+ - update to 1.9
+ - switch sighted events to moveto's
+ - update translation (german)
 
 v1.3.3
-- custom shedule
-- several bugfixes
-- code cleansing
-- update to 1.9
+ - custom shedule
+ - several bugfixes
+ - code cleansing
+ - update to 1.9
 
 v1.3.4
-- correction
+ - correction
 
 v1.4.0
-- 4 new scenarios (merged 'Eliador' with Saving Elensefar)
-- code cleaning and debuging
+ - 4 new scenarios (merged 'Eliador' with Saving Elensefar)
+ - code cleaning and debuging
 
 v1.4.1
-- fixed some typos
+ - fixed some typos
 
 v1.4.2
-- changed 'The Swampland' to be a reversi/othello game
-- tweaked ai ally in 'A naval Engagement'
+ - changed 'The Swampland' to be a reversi/othello game
+ - tweaked ai ally in 'A naval Engagement'
 
 v1.4.3
-- patroling wesnothian ships
-- enlarged swampland
+ - patroling wesnothian ships
+ - enlarged swampland
 
 v1.4.4
-- bugfixing (typos)
-- balancing
+ - bugfixing (typos)
+ - balancing
 
 v1.4.6
-- further bugfixing & testing
-- fixed ability blitz
-- saurians offer 'eye of basilisk' in 'saurian trap'
-- new scenario: 'Illaryan the Illusionist'
+ - further bugfixing & testing
+ - fixed ability blitz
+ - saurians offer 'eye of basilisk' in 'saurian trap'
+ - new scenario: 'Illaryan the Illusionist'
 
 v1.4.7
-- fixed 3 gamebreaking bugs
-- fixed battle tutor ability
-- tweaked ai
-- balancing
+ - fixed 3 gamebreaking bugs
+ - fixed battle tutor ability
+ - tweaked ai
+ - balancing
 
 v1.4.8
-- removed pango in the credits.cfg
-- update german translation
-- disabled 'saurian trap'
+ - removed pango in the credits.cfg
+ - update german translation
+ - disabled 'saurian trap'
 
 v1.4.9
  - updaded german translation
