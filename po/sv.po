@@ -83,7 +83,7 @@ msgstr "Elensefars Undsättning"
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:6
 msgid "Campaign Design"
-msgstr ""
+msgstr "Kampanjdesign"
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:14
@@ -103,7 +103,7 @@ msgstr ""
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:88
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Kampanjunderhåll"
 
 #. [scenario]: id=sea_voyage_-1
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:6
@@ -2345,7 +2345,7 @@ msgstr ""
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i15_Alduin.cfg:187
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: id=Black the Red
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i15_Alduin.cfg:191
@@ -2442,7 +2442,7 @@ msgstr ""
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:147
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:201
 msgid "Player"
-msgstr ""
+msgstr "Spelare"
 
 #. [command]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:157
@@ -3165,7 +3165,7 @@ msgstr "Alandur"
 #. [objectives]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:63
 msgid "Gold carryover:"
-msgstr ""
+msgstr "Överfört guld:"
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:66
@@ -3922,12 +3922,12 @@ msgstr ""
 #. [attack]: type=impact
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Brute.cfg:26
 msgid "fist"
-msgstr ""
+msgstr "knytnäve"
 
 #. [unit_type]: id=SE Civilian, race=human
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Civilian.cfg:5
 msgid "Civilian"
-msgstr ""
+msgstr "Civilist"
 
 #. [unit_type]: id=SE Civilian, race=human
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Civilian.cfg:20
@@ -3940,7 +3940,7 @@ msgstr ""
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Civilian.cfg:25
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Nobleman.cfg:29
 msgid "dagger"
-msgstr ""
+msgstr "dolk"
 
 #. [unit_type]: id=Elvish Admiral, race=elf
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Elvish_Admiral.cfg:5
@@ -3966,7 +3966,7 @@ msgstr "stav"
 #. [attack]: type=impact
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Elvish_Admiral.cfg:75
 msgid "bolas"
-msgstr ""
+msgstr "bola"
 
 #. [unit_type]: id=Elvish Mariner, race=elf
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Elvish_Mariner.cfg:5
@@ -4022,7 +4022,7 @@ msgstr ""
 #. [attack]: type=fire
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Initiate.cfg:34
 msgid "missile"
-msgstr ""
+msgstr "projektil"
 
 #. [female]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Initiate.cfg:138
@@ -4189,7 +4189,7 @@ msgstr ""
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:208
 msgid "distract"
-msgstr ""
+msgstr "distrahera"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:209
 msgid ""
@@ -4199,7 +4199,7 @@ msgstr ""
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:231
 msgid "inspire"
-msgstr ""
+msgstr "inspiration"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:232
 msgid ""
@@ -4260,7 +4260,7 @@ msgstr ""
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:49
 msgid "I go now to join my forefathers..."
-msgstr ""
+msgstr "Jag ansluter mig till mina förfäder..."
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:54
@@ -4303,7 +4303,7 @@ msgstr "Jag förstår..."
 #. [message]: id=Raenna
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:219
 msgid "This can’t be the end, I have too much left to see."
-msgstr ""
+msgstr "Detta kan inte vara slutet, jag har så mycket kvar att göra..."
 
 #. [message]: id=Drake
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:254

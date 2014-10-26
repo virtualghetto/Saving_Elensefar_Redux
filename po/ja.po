@@ -4265,7 +4265,7 @@ msgstr "本当に逃げたいですか?"
 #. [option]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/cutscenes.cfg:102
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/cutscenes.cfg:106
@@ -4275,7 +4275,7 @@ msgstr "退却だ!"
 #. [option]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/cutscenes.cfg:131
 msgid "No"
-msgstr ""
+msgstr "いいえ"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/cutscenes.cfg:135

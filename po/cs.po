@@ -81,7 +81,7 @@ msgstr "Záchrana Elensefaru"
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:6
 msgid "Campaign Design"
-msgstr ""
+msgstr "Návrh tažení"
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:14
@@ -100,8 +100,31 @@ msgstr ""
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:88
+#, fuzzy
 msgid "Campaign Maintenance"
 msgstr ""
+"#-#-#-#-#  10.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Správa tažení\n"
+"#-#-#-#-#  12.po (wescamp-i 18n)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  17.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  18.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  19.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  22.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  23.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  26.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  3.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  7.po (Battle for Wesnoth 1.2)  #-#-#-#-#\n"
+"Údržba tažení\n"
+"#-#-#-#-#  9.po (Battle for Wesnoth)  #-#-#-#-#\n"
+"Údržba tažení"
 
 #. [scenario]: id=sea_voyage_-1
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:6
@@ -2278,7 +2301,7 @@ msgstr ""
 #. [side]: type=Arch Mage, id=Leowyn
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i15_Alduin.cfg:34
 msgid "Mage Magister"
-msgstr ""
+msgstr "Starší Mág"
 
 #. [objectives]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i15_Alduin.cfg:68
@@ -2331,7 +2354,7 @@ msgstr ""
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i15_Alduin.cfg:187
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: id=Black the Red
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i15_Alduin.cfg:191
@@ -2428,7 +2451,7 @@ msgstr ""
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:147
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:201
 msgid "Player"
-msgstr ""
+msgstr "Hráč"
 
 #. [command]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:157
@@ -3143,7 +3166,7 @@ msgstr "Kalandur"
 #. [objectives]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:63
 msgid "Gold carryover:"
-msgstr ""
+msgstr "Přenesené zlato:"
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:66
@@ -3898,12 +3921,12 @@ msgstr ""
 #. [attack]: type=impact
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Brute.cfg:26
 msgid "fist"
-msgstr ""
+msgstr "pěst"
 
 #. [unit_type]: id=SE Civilian, race=human
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Civilian.cfg:5
 msgid "Civilian"
-msgstr ""
+msgstr "Civilista"
 
 #. [unit_type]: id=SE Civilian, race=human
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Civilian.cfg:20
@@ -3916,7 +3939,7 @@ msgstr ""
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Civilian.cfg:25
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Nobleman.cfg:29
 msgid "dagger"
-msgstr ""
+msgstr "dýka"
 
 #. [unit_type]: id=Elvish Admiral, race=elf
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Elvish_Admiral.cfg:5
@@ -3945,7 +3968,7 @@ msgstr "hůl"
 #. [attack]: type=impact
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Elvish_Admiral.cfg:75
 msgid "bolas"
-msgstr ""
+msgstr "bola"
 
 #. [unit_type]: id=Elvish Mariner, race=elf
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Elvish_Mariner.cfg:5
@@ -4006,7 +4029,7 @@ msgstr ""
 #. [attack]: type=fire
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Initiate.cfg:34
 msgid "missile"
-msgstr ""
+msgstr "střela"
 
 #. [female]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Initiate.cfg:138
@@ -4180,17 +4203,19 @@ msgstr ""
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:208
 msgid "distract"
-msgstr ""
+msgstr "rozptylování"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:209
 msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but "
 "not for itself)."
 msgstr ""
+"Jednotka dokáže ve své blízkosti rušit nepřátelské zóny kontroly pro ostatní "
+"spřátelené jednotky (ne však pro sebe)."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:231
 msgid "inspire"
-msgstr ""
+msgstr "inspirující"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:232
 msgid ""
@@ -4241,7 +4266,7 @@ msgstr "Doufám, že to nikdy nebude potřeba."
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:20
 msgid "To die on the cusp of victory. Oh, the irony!"
-msgstr ""
+msgstr "Jaká ironie, zemřít, když je vítězství na dosah ruky!"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:26
@@ -4251,7 +4276,7 @@ msgstr ""
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:49
 msgid "I go now to join my forefathers..."
-msgstr ""
+msgstr "Odcházím přidat se ke předkům..."
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:54
@@ -4294,7 +4319,7 @@ msgstr "Aha..."
 #. [message]: id=Raenna
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:219
 msgid "This can’t be the end, I have too much left to see."
-msgstr ""
+msgstr "Tohle přece nemůže být konec, ještě jsem toho tolik neviděla."
 
 #. [message]: id=Drake
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:254

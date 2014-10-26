@@ -79,8 +79,35 @@ msgstr "Elensefar felszabadítása terep"
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:6
+#, fuzzy
 msgid "Campaign Design"
 msgstr ""
+"#-#-#-#-#  10.po (hu-l_1.4_1.5)  #-#-#-#-#\n"
+"Hadjárat kialakítása\n"
+"#-#-#-#-#  16.po (hu-nr)  #-#-#-#-#\n"
+"Hadjárattervezés\n"
+"#-#-#-#-#  17.po (hu-sof_1.5befejezni)  #-#-#-#-#\n"
+"Hadjárat kialakítása\n"
+"#-#-#-#-#  18.po (hu-sotbe)  #-#-#-#-#\n"
+"Hadjárat tervezés\n"
+"#-#-#-#-#  19.po (hu-tb)  #-#-#-#-#\n"
+"Hadjárattervezés\n"
+"#-#-#-#-#  2.po (wesnoth-aoi)  #-#-#-#-#\n"
+"Hadjárat kialakítása\n"
+"#-#-#-#-#  22.po (hu-trow)  #-#-#-#-#\n"
+"Hadjárat kialakítása\n"
+"#-#-#-#-#  23.po (hu-tsg_1.5)  #-#-#-#-#\n"
+"Hadjárat kialakítása\n"
+"#-#-#-#-#  26.po (hu-utbs_1.4_1.5)  #-#-#-#-#\n"
+"Hadjárattervezés\n"
+"#-#-#-#-#  27.po (hu-wesnoth)  #-#-#-#-#\n"
+"Hadjárattervezés\n"
+"#-#-#-#-#  3.po (hu-did)  #-#-#-#-#\n"
+"Hadjárat tervezés\n"
+"#-#-#-#-#  7.po (wesnoth-ei 1.4 branch)  #-#-#-#-#\n"
+"Hadjárat tervezés\n"
+"#-#-#-#-#  9.po (hu)  #-#-#-#-#\n"
+"Hadjárat kialakítása"
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:14
@@ -99,8 +126,31 @@ msgstr ""
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:88
+#, fuzzy
 msgid "Campaign Maintenance"
 msgstr ""
+"#-#-#-#-#  10.po (hu-l_1.4_1.5)  #-#-#-#-#\n"
+"Hadjárat karbantartása\n"
+"#-#-#-#-#  12.po (hu-low_1.5(frozen))  #-#-#-#-#\n"
+"Hadjárat-karbantartás\n"
+"#-#-#-#-#  17.po (hu-sof_1.5befejezni)  #-#-#-#-#\n"
+"Hadjárat karbantartása\n"
+"#-#-#-#-#  18.po (hu-sotbe)  #-#-#-#-#\n"
+"Hadjárat karbantartás\n"
+"#-#-#-#-#  19.po (hu-tb)  #-#-#-#-#\n"
+"Hadjárat karbantartása\n"
+"#-#-#-#-#  22.po (hu-trow)  #-#-#-#-#\n"
+"Hadjárat karbantartása\n"
+"#-#-#-#-#  23.po (hu-tsg_1.5)  #-#-#-#-#\n"
+"Hadjárat karbantartása\n"
+"#-#-#-#-#  26.po (hu-utbs_1.4_1.5)  #-#-#-#-#\n"
+"Hadjárat karbantartása\n"
+"#-#-#-#-#  3.po (hu-did)  #-#-#-#-#\n"
+"Hadjárat karbantartás\n"
+"#-#-#-#-#  7.po (wesnoth-ei 1.4 branch)  #-#-#-#-#\n"
+"Hadjárat karbantartás\n"
+"#-#-#-#-#  9.po (hu)  #-#-#-#-#\n"
+"Hadjárat karbantartása"
 
 #. [scenario]: id=sea_voyage_-1
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:6
@@ -2436,7 +2486,7 @@ msgstr "A gyíkoknak hiszek, tisztítsuk meg a szigetet a nagáktól."
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:147
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:201
 msgid "Player"
-msgstr ""
+msgstr "Játékos"
 
 #. [command]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:157
@@ -3190,7 +3240,7 @@ msgstr "Kalandur"
 #. [objectives]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:63
 msgid "Gold carryover:"
-msgstr ""
+msgstr "Arany továbbvitel:"
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:66
@@ -4248,7 +4298,7 @@ msgstr ""
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:208
 msgid "distract"
-msgstr ""
+msgstr "zavarás"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:209
 msgid ""
@@ -4258,7 +4308,7 @@ msgstr ""
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:231
 msgid "inspire"
-msgstr ""
+msgstr "ösztönzés"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:232
 msgid ""
@@ -4311,7 +4361,7 @@ msgstr "Reméltem, hogy erre sose lesz szükség."
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:20
 msgid "To die on the cusp of victory. Oh, the irony!"
-msgstr ""
+msgstr "A Sors fintora. A győzelem küszöbén meghalni... "
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:26
@@ -4321,7 +4371,7 @@ msgstr ""
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:49
 msgid "I go now to join my forefathers..."
-msgstr ""
+msgstr "Csatlakozom az őseimhez..."
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:54
@@ -4363,7 +4413,7 @@ msgstr "Látom a fényt..."
 #. [message]: id=Raenna
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:219
 msgid "This can’t be the end, I have too much left to see."
-msgstr ""
+msgstr "Ez nem lehet a vég. Oly sok mindent kellett volna még látnom."
 
 #. [message]: id=Drake
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:254
