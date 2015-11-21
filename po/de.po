@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-09-28 19:35+0100\n"
-"PO-Revision-Date: 2013-12-31 18:06+0100\n"
-"Last-Translator: trewe <sjrs456@yandex.com>\n"
+"PO-Revision-Date: 2015-11-21 13:54+0100\n"
+"Last-Translator: Cornelius Kölbel <cornelius.koelbel@netknights.it>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -357,17 +357,17 @@ msgstr "Aye aye, Käpt'n. Alle Männer zu den Schiffen, so schnell sie können!"
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:309
 msgid "So this is the harbor of Elensefar."
-msgstr ""
+msgstr "Dies ist also der Hafen von Elensefar."
 
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:317
 msgid "Well, I guess I've to wait for my superiors then."
-msgstr ""
+msgstr "Ich denke ich muss nun auf meine Vorgesetzten warten."
 
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:324
 msgid "Let us move to the docks."
-msgstr ""
+msgstr "Lasst uns zu den Hafenanlagen gehen."
 
 #. [message]: speaker=narrator
 #. [side]: type=Elvish Mariner, id=Meneldur
@@ -2138,7 +2138,7 @@ msgstr "Bakrakha"
 #. [side]: id=Bakrakha, type=Khalid
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:26
 msgid "Old Stubborn"
-msgstr ""
+msgstr "Alter Dickkopf"
 
 #. [side]: id=Sakdur, type=Qatif_al_nar
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:65
@@ -2217,12 +2217,11 @@ msgstr ""
 
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:174
-#, fuzzy
 msgid ""
 "I don't think it's that simple. That guy in the castle has all the food, we "
 "can't restock from here."
 msgstr ""
-"Ich glaube nicht es so einfach ist. Diese Burg besitzt alle Vorräte, wir "
+"Ich glaube nicht, dass es so einfach ist. Alle Vorräte sind in der Burg. Wir "
 "können nicht von hier aus aufladen."
 
 #. [message]: id=Meneldur
@@ -3056,7 +3055,7 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i3-1_Theft.cfg:255
 msgid "Orcs! Would they be behind the theft of our ship?"
-msgstr ""
+msgstr "Orks! Wollen die etwa unser Schiff stehlen?"
 
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i3-1_Theft.cfg:269
@@ -3320,11 +3319,14 @@ msgid ""
 "The percentage of gold carried over to the next scenario decreases by 5 for "
 "every slained elf."
 msgstr ""
+"Für jeden gefallen Elfen wird der Prozentsatz des Goldes, das in die nächste "
+"Runde übernommen wird, um 5 reduziert."
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:70
 msgid "$gold_carryover|% of gold carried over to the next scenario."
 msgstr ""
+"$gold_carryover|% Goldstücke werden in das nächste Szenario übernommen."
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:133
@@ -3709,7 +3711,7 @@ msgstr "Wow"
 #. [message]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:194
 msgid "Yks, the snow beast is still alive."
-msgstr ""
+msgstr "Oh nein. Das Schneemoster ist immer noch am Leben."
 
 #. [message]: id=Padrun
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i8_Frozen_Lands.cfg:203
@@ -3810,9 +3812,8 @@ msgstr "Elensefar"
 
 #. [label]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:166
-#, fuzzy
 msgid "Barbaric Sea"
-msgstr "Barbar"
+msgstr "Barbaren See"
 
 #. [label]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:171
@@ -3822,9 +3823,8 @@ msgstr "Südbucht"
 
 #. [label]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:176
-#, fuzzy
 msgid "Alduin"
-msgstr "Aldun"
+msgstr "Alduin"
 
 #. [objectives]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:186
@@ -4183,13 +4183,15 @@ msgstr ""
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Hakim.cfg:97
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Hakim.cfg:160
 msgid "herbalist"
-msgstr ""
+msgstr "Kräuterkundler"
 
 #. [trait]: id=healthy
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Hakim.cfg:98
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Hakim.cfg:161
 msgid "This unit is a skilled herbalist accelerating its healing capabilities."
 msgstr ""
+"Diese Einheit ist ein erfahrener Kräuterkundler mit schnellen "
+"Heilungskräften."
 
 #. [unit_type]: id=SE Initiate, race=human
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Initiate.cfg:5
@@ -4303,6 +4305,11 @@ msgid ""
 "forming a fairly skilled militia. However, if you are hurling civilians at "
 "your foes, you're clearly out of superior forces."
 msgstr ""
+"Elfen sind von Natur aus keine kriegsführende Nation. Daher besteht die "
+"Bevölkerung vor allem aus Zivilisten. Diese lernen allerdings in jungen "
+"Jahren den Umgang mit Schwert und Bogen, so dass sie sich selber und ihre "
+"Heimat verteidigen können, falls dieses notwendig ist. Dennoch empfiehlt es "
+"sich nicht nur mit unterlegenen Zivilisten Feind anzugreifen."
 
 #. [female]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/elvish_civilian.cfg:33
@@ -4318,17 +4325,20 @@ msgstr "Elfen Berittener Bogenschütze"
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/horse_archer.cfg:25
 msgid "Swordsmastery: add extra damage to sword, Cures Poison, Max XP +20%"
 msgstr ""
+"Schwertkunst: Extra Schaden durch Schwert, Vergiftung heilen, Max XP +20%"
 
 #. [advancement]: id=ml_extra_ranged
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/horse_archer.cfg:53
 msgid ""
 "Marksmanship: add marksman to bow, add +2 damage, Cures Poison, MAX XP +20%"
 msgstr ""
+"Schießkunst: Treffsicherheit mit dem Bogen, +2 Schaden, Vergiftun heilen, "
+"Max XP +20%"
 
 #. [advancement]: id=amla_default
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/horse_archer.cfg:88
 msgid "Max HP bonus +4, full healing, Max XP +25%"
-msgstr ""
+msgstr "Maximale Lebenspunkte Bonus +4, Volle Heilung, Max XP +25%"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:8
 msgid ""
@@ -4353,6 +4363,8 @@ msgid ""
 " This unit is able to grant the skirmisher ability to allied units that "
 "stand next to it on start of his turn."
 msgstr ""
+"Diese Einheit kann auf verbündete Einheiten die Plänklereigenschaft "
+"übertragen, wenn die verbündete Einheit am Anfang der Runde neben ihr steht."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:17
 msgid ""
@@ -4360,6 +4372,10 @@ msgid ""
 "to earn experience points equivalent of the second unit level whenever the "
 "tutor attacks with his melee attack and hits at least once."
 msgstr ""
+"Fähigkeit angrenzenden verbündeten Einheiten Kampferfahrung beizubringen. "
+"Angrenzende verbündete Einheiten erhalten Erfahrungspunkte entsprechend der "
+"zweiten Stufe, wenn diese Einheit mit Nahkampf angreift und mindestens "
+"einmal trifft."
 
 #. [leadership]: id=blitz
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:23
@@ -4405,6 +4421,8 @@ msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but "
 "not for itself)."
 msgstr ""
+"Diese Einheit kann um sich herum vom Gegner kontrollierte Felder für "
+"verbündete Einheiten (nicht für sich selber) begehbar machen."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:231
 msgid "inspire"
@@ -4415,6 +4433,8 @@ msgid ""
 "This unit can inspire *allied* units that are next to it, making them do 25% "
 "more damage per level difference."
 msgstr ""
+"Diese Einheit unterstützt benachbarte verbündete Einheiten. Pro Stufe "
+"Unterschied fügen die verbündeten Einheiten 25% mehr Schaden zu."
 
 #. [message]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/cutscenes.cfg:100
