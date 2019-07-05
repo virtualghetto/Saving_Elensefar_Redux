@@ -177,6 +177,10 @@ v1.6.2
 v1.7.0~experimental
  - added multiplayer port
 
+v1.7.1~experimental
+ - Fix a bug using wmltool and displaying soldier number
+ - translations
+
 # TODO
  - alduin, caves and saurian trap need story
  - dialogue redo on 'The Swampland' and 'Illaryan..'
@@ -185,4 +189,4 @@ v1.7.0~experimental
  - looking for remaing balance blooders (especially gold carryover)
  ? simplify gold carryover
 
-### trewe — sjrs456 at yahoo dot fr ###
+### trewe — sjrs456 at yahoo dot fr - ImperatorS79 ###

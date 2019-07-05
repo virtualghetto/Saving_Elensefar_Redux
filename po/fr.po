@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-07-05 20:16 UTC\n"
-"PO-Revision-Date: 2019-07-05 22:18+0200\n"
+"PO-Revision-Date: 2019-07-05 23:18+0200\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -2289,13 +2289,13 @@ msgid ""
 "Now we are on the isle of Alduin, let us try to convince some of the mage to "
 "join our cause."
 msgstr ""
-"Maintenant, nous sommes sur l'île de Alduin, essayons de convaincre certains "
-"des mages de se joindre à notre cause."
+"Maintenant que nous sommes sur l'île d'Alduin, essayons de convaincre "
+"certains des mages de se joindre à notre cause."
 
 #. [message]: id=Black the Red
 #: Saving_Elensefar\scenarios\i15_Alduin.cfg:183
 msgid "I doupt they will."
-msgstr "Je doute qu'il ne le fasse"
+msgstr "Je doute qu'ils s'acceptent."
 
 #. [message]: id=Madru
 #: Saving_Elensefar\scenarios\i15_Alduin.cfg:187
@@ -3681,7 +3681,7 @@ msgid ""
 "Know that, traitor: We are roaming the Seas and will destroy all of you, you "
 "cannot escape us!"
 msgstr ""
-"Sachez-le, traître: nous parcourons les mers et allons vous détruire tous, "
+"Sachez-le, traître : nous parcourons les mers et allons vous détruire tous, "
 "vous ne pouvez pas nous échapper !"
 
 #. [scenario]: id=sea_voyage_0
@@ -3775,8 +3775,8 @@ msgid ""
 "The Great Academy of Alduin is settled on this isle! Let us hold here for a "
 "day or two."
 msgstr ""
-"L'Académie Grande d' Alduin est réglé sur cette île! Tenons-nous ici pour un "
-"jour ou deux."
+"La Grande Académie d'Alduin se trouve sur cette île ! Reposons-nous ici pour "
+"un jour ou deux."
 
 #. [event]
 #: Saving_Elensefar\scenarios\r_The_High_Seas.cfg:365
@@ -4386,12 +4386,12 @@ msgstr ""
 #. [message]: id=Black the Red
 #: Saving_Elensefar\utils\cutscenes.cfg:230
 msgid "But then we haven't time to refill our ship..."
-msgstr "Mais alors nous n'avons pas le temps de recharge de notre bateau..."
+msgstr "Mais alors nous n'aurons pas le temps de remplir notre navire..."
 
 #. [message]: id=Meneldur
 #: Saving_Elensefar\utils\cutscenes.cfg:234
 msgid "I hope it would never be needed."
-msgstr "J'espère qu'elle ne sera jamais nécessaire."
+msgstr "J'espère que cela ne sera jamais nécessaire."
 
 #. [message]: id=Meneldur
 #: Saving_Elensefar\utils\deaths.cfg:20
