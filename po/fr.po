@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2014-09-28 19:35+0100\n"
-"PO-Revision-Date: 2012-02-16 16:47+0100\n"
+"PO-Revision-Date: 2019-07-05 17:21+0200\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: none\n"
 "Language: fr\n"
@@ -11,6 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.9\n"
 
 #. [campaign]: id=saving_elensefar
 #. [scenario]: id=sea_voyage_-4
@@ -38,7 +39,7 @@ msgstr ""
 #. [campaign]: id=saving_elensefar
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/_main.cfg:20
 msgid "Expert level, 4 — 22 scenarios (depending of route taken)"
-msgstr ""
+msgstr "Niveau expert, 4 à 22 scénarios (en fonction de la route prise)"
 
 #. [campaign]: id=saving_elensefar
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/_main.cfg:22
@@ -46,6 +47,8 @@ msgid ""
 "Expected campaign length: ~12 scenarios (if you took longer something got "
 "wrong)"
 msgstr ""
+"Longueur attendue pour la campagne: environ 12 scénarios (si cela prend plus "
+"de temps, quelque chose c'est mal passé)"
 
 #. [campaign]: id=saving_elensefar
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/_main.cfg:32
@@ -80,27 +83,27 @@ msgstr "Terrain du Sauver Elensefar"
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:6
 msgid "Campaign Design"
-msgstr ""
+msgstr "Design de la campagne"
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:14
 msgid "WML Contribution"
-msgstr ""
+msgstr "Contribution WML"
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:43
 msgid "Artwork and Graphic Design"
-msgstr ""
+msgstr "Artwork et design graphique"
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:60
 msgid "Translations"
-msgstr ""
+msgstr "Traductions"
 
 #. [about]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/credits.cfg:88
 msgid "Campaign Maintenance"
-msgstr ""
+msgstr "Maintenance de la campagne"
 
 #. [scenario]: id=sea_voyage_-1
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:6
@@ -117,6 +120,12 @@ msgid ""
 "scenario to scenario is handled differently, with the help of an interactive "
 "bigmap."
 msgstr ""
+"<b>Attention:</b> Cette campagne fonctionne différemment de la plupart des "
+"autres sur de nombreux points. Vous ne pouvez recruter personne dans la "
+"plupart des scénarios, et dans ceux où vous pouvez, ce que vous pouvez "
+"recruter est toujours différent - ce qui sur votre liste de recrutement "
+"n'est pas transféré de scénario en scénario.  Le changement de scénario est "
+"aussi géré différemment, avec l'aide d'une carte intéractive."
 
 #. [part]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:23
@@ -128,6 +137,13 @@ msgid ""
 "finishing the battle (independently of unit level) depending of how long you "
 "are traveling (the longer you take finish the campaign the more)."
 msgstr ""
+"Dans cette campagne, vous allez jouer avec différents leaders, chacun avec "
+"ses propres recrutements et rappels (mais ils partagent tous l'or), "
+"l'entretien et les revenus sont aussi gérer différemment. Vous n'aurez aucun "
+"revenu, mis appart le bonus de fin anticipée ; et vos troupes requierent de "
+"l'entretient au début du scénario et après avoir fini le combat "
+"(indépendamment du niveau de l'unité), en fonction de la durée de votre "
+"voyage (plus vous prenez de temps, plus il faudra payer)."
 
 #. [part]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:28
@@ -137,6 +153,10 @@ msgid ""
 "will prove an interesting experience for those who have played normal "
 "campaigns before."
 msgstr ""
+"Pour cette raison, cette campagne est déconseillée aux joueurs novices de "
+"Wesnoth qui souhaitent comprendre le fonctionnement normal du jeu. "
+"Cependant, ce sera une expérience intéressante pour ceux qui ont déjà joué "
+"dans des campagnes normales précédemment."
 
 #. [part]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:35
@@ -263,9 +283,9 @@ msgstr "Pilleurs orques"
 
 #. [objective]: condition=win
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:247
-#, fuzzy
 msgid "Move Meneldur and Madru to the Explorer (southwest of the map)"
-msgstr "Déplacez Meneldur à l'explorateur (sud-ouest de la carte)"
+msgstr ""
+"Déplacez Meneldur et Madru jusqu'à l'Explorateur (sud-ouest de la carte)"
 
 #. [objective]: condition=lose
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:251
@@ -334,17 +354,17 @@ msgstr "Oui, cap'taine. Tous à bord, aussi vite que possible !"
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:309
 msgid "So this is the harbor of Elensefar."
-msgstr ""
+msgstr "Donc voici le port d'Elensefar."
 
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:317
 msgid "Well, I guess I've to wait for my superiors then."
-msgstr ""
+msgstr "Eh bien, j'imagine que je vais devoir attendre mes supérieurs."
 
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/01_Escaping_the_Orcs.cfg:324
 msgid "Let us move to the docks."
-msgstr ""
+msgstr "Déplaçons-nous vers les docks."
 
 #. [message]: speaker=narrator
 #. [side]: type=Elvish Mariner, id=Meneldur
@@ -535,9 +555,8 @@ msgstr "Ahhh, un bon grog rafraîchissant ! *glouglou*"
 
 #. [message]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:262
-#, fuzzy
 msgid "Drinking the grog heals your units!"
-msgstr "Buvant le grog guérit $temp.name|!"
+msgstr "Boire du grog guérit vos unités!"
 
 #. [message]: id=Black the Red
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/02_A_Naval_Engagement.cfg:304
@@ -782,7 +801,7 @@ msgstr ""
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:260
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:237
 msgid "Should never have trusted the fool."
-msgstr ""
+msgstr "Je n'aurais jamais dû faire confiance à cet insensé."
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/03_Blackmore_the_Black.cfg:294
@@ -873,7 +892,7 @@ msgstr "Elfes furieux"
 #. [objective]: condition=win
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:155
 msgid "Retake Elensefar by defeating all enemy leaders"
-msgstr ""
+msgstr "Reprenez Elensefar en éliminant tous les chefs ennemis"
 
 #. [message]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/04_Saving_Elensefar.cfg:766
@@ -1271,15 +1290,13 @@ msgstr "L'explorateur"
 
 #. [unit]: id=Pirate, type=Pirate Galleon
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:109
-#, fuzzy
 msgid "Pirate Galley"
-msgstr "Pirates"
+msgstr "Galère pirate"
 
 #. [unit]: id=Galley, type=War Galleon
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:126
-#, fuzzy
 msgid "Wesnothian Galley"
-msgstr "Wesnothianes"
+msgstr "Galère Wesnothienne"
 
 #. [message]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f1-Attacked_at_Sea.cfg:139
@@ -1386,9 +1403,8 @@ msgstr "Madru, as-tu une suggestion à faire ?"
 
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:155
-#, fuzzy
 msgid "Madru’s Suggestion"
-msgstr "Suggestion du Madru"
+msgstr "Suggestion de Madru"
 
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:156
@@ -1414,9 +1430,8 @@ msgstr ""
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:172
-#, fuzzy
 msgid "Meneldur’s Plan"
-msgstr "Meneldur Plan"
+msgstr "Plan de Meneldur"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:173
@@ -1442,9 +1457,8 @@ msgstr ""
 
 #. [message]: id=Ah-Reblak
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:184
-#, fuzzy
 msgid "Ah-Reblak’s choice"
-msgstr "Ah-Reblak"
+msgstr "Choix d'Ah-Reblak"
 
 #. [message]: id=Ah-Reblak
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:185
@@ -1453,11 +1467,14 @@ msgid ""
 "from all sides at the same time? They surrely don't stand a chance against "
 "our combined forces!"
 msgstr ""
+"Pourquoi ne divisons-nous pas nos forces et ne prenons-nous Elensefar par "
+"nos écrasantes forces de tous les côtés en même temps? Ils n'ont absolument "
+"aucune chance contre nos forces combinées !"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:190
 msgid "Each of us on his own quest? That is suicide!"
-msgstr ""
+msgstr "Chacun de nous dans sa propre quête ? C'est du suicide !"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:199
@@ -1491,7 +1508,7 @@ msgstr ""
 #. [option]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:221
 msgid "Let us take Elensefar by surprise and split our forces."
-msgstr ""
+msgstr "Prenons Elensefar par surprise et divisons nos forces."
 
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/f2-Return_to_Elensefar.cfg:234
@@ -1771,7 +1788,7 @@ msgstr "Handran"
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:29
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:48
 msgid "Far West"
-msgstr "extrême ouest"
+msgstr "Extrême Ouest"
 
 #. [side]: id=Narian, type=Grand Knight
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i10_A_Kings_Demand.cfg:43
@@ -2033,7 +2050,7 @@ msgstr "Kar-Salazz"
 #. [side]: id=Kar-Salazz, type=Lich
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:27
 msgid "Sea Hawks"
-msgstr ""
+msgstr "Aigles marins"
 
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i12_The_Desert_Island.cfg:122
@@ -2130,7 +2147,6 @@ msgstr "Asknak"
 
 #. [objective]: condition=win
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:110
-#, fuzzy
 msgid ""
 "Defeat Bakrakha, the Southern Warlord, and then survive until end of turns"
 msgstr ""
@@ -2144,7 +2160,6 @@ msgstr "Fin des tours atteinte et Bakrakha est toujours en vie"
 
 #. [message]: id=Bakrakha
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:156
-#, fuzzy
 msgid ""
 "So, little maggots, you got so low as to call down some islefolk from the "
 "north to help with your trying to take over the castle!?! Not going to "
@@ -2156,7 +2171,6 @@ msgstr ""
 
 #. [message]: id=Sakdur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:161
-#, fuzzy
 msgid ""
 "We didn't call no human scum out of the north, though we could use their "
 "help! You been chieftain far too long, Bakrakra! You aint got us meat, and "
@@ -2178,7 +2192,6 @@ msgstr ""
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:170
-#, fuzzy
 msgid ""
 "I don't think we should get involved here. These clans can fight each other, "
 "and they won't care if we wait here and restock."
@@ -2189,7 +2202,6 @@ msgstr ""
 
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:174
-#, fuzzy
 msgid ""
 "I don't think it's that simple. That guy in the castle has all the food, we "
 "can't restock from here."
@@ -2204,7 +2216,6 @@ msgstr "Que devons-nous faire à ton avis ?"
 
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:182
-#, fuzzy
 msgid ""
 "Well, we will definitely have to kill the chieftain in the castle, to get "
 "the food. But to get to him, we should probably go around the river, which "
@@ -2223,13 +2234,11 @@ msgstr ""
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:209
-#, fuzzy
 msgid "We have defeated all of the clansmen; refill the ship, and we'll leave."
 msgstr "Les orcs sont vaincus. Remplissez les cales et partons !"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:239
-#, fuzzy
 msgid ""
 "We did not manage to kill the enemy leader, and now we are out of food..."
 msgstr ""
@@ -2248,12 +2257,12 @@ msgstr ""
 #. [message]: id=Bakrakha
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:267
 msgid "Who are you? From where are you? Why are you killing my folk?"
-msgstr ""
+msgstr "Qui êtes-vous ? D'où venez-vous? Pourquoi tuez-vous mon peuple?"
 
 #. [message]: id=Bakrakha
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i13_The_Ruined_Port.cfg:274
 msgid "Fools! Now you are all doomed!"
-msgstr ""
+msgstr "Pauvre fous ! Maintenant, vous êtes tous condamnés !"
 
 #. [scenario]: id=sea_voyage_illusionist
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:6
@@ -2343,7 +2352,7 @@ msgstr "Va-t'en, fausse illusion!"
 #. [message]: id=Illaryan
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i14_Unknown_Horizons.cfg:311
 msgid "No! I can not be defeated!"
-msgstr ""
+msgstr "Non ! Je ne peux être défait !"
 
 #. [scenario]: id=sea_voyage_alduin
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i15_Alduin.cfg:6
@@ -2443,7 +2452,7 @@ msgstr "Naga choléra"
 #. [side]: type=Saurian Flanker
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:58
 msgid "Saurian Pest"
-msgstr ""
+msgstr "Ravageur Saurien"
 
 #. [message]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:103
@@ -2507,7 +2516,7 @@ msgstr ""
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:147
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:201
 msgid "Player"
-msgstr ""
+msgstr "Joueur"
 
 #. [command]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:157
@@ -2528,7 +2537,7 @@ msgstr "Laissez"
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:160
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:215
 msgid "No leader or loyal unit can take this item."
-msgstr ""
+msgstr "Aucun chef ou unité loyale ne peut prendre cet objet."
 
 #. [object]: id=invisibility_cape
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:163
@@ -2549,7 +2558,6 @@ msgstr "invisibilité"
 #. [hides]: id=invisibility
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:177
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:180
-#, fuzzy
 msgid ""
 "This unit is invisible by its enemies.\n"
 "\n"
@@ -2610,9 +2618,8 @@ msgstr "Nous n'avons pas de temps pour les litiges enfantines."
 
 #. [objective]: condition=win
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:271
-#, fuzzy
 msgid "Defeat the Saurians"
-msgstr "Défaites les Nagas"
+msgstr "Défaites les Sauriens"
 
 #. [objective]: condition=win
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:278
@@ -2627,7 +2634,7 @@ msgstr "Défaite les deux chefs ennemis"
 #. [message]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:332
 msgid "Hurrah! The Nagas are slain."
-msgstr ""
+msgstr "Hourra ! Les Nagas sont vaincus."
 
 #. [message]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:346
@@ -2637,7 +2644,7 @@ msgstr ""
 #. [message]: id=$units[$random].id
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i17_Saurian_Trap.cfg:428
 msgid "I wish to join your side and go for an adventure."
-msgstr ""
+msgstr "Je souhaite rejoindre votre camp et partir à l'aventure."
 
 #. [scenario]: id=sea_voyage_cave
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i18_Cave_illien.cfg:7
@@ -2754,37 +2761,33 @@ msgstr ""
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i1_The_Swampland.cfg:105
-#, fuzzy
 msgid "(2) Move Meneldur to a ruined castle at the left to select the row"
 msgstr ""
-"(2) Déplacer Meneldur à nouveau pour un château en ruine à la gauche pour "
-"sélectionner la ligne"
+"(2) Déplacer Meneldur jusqu'à un château en ruine à gauche pour sélectionner "
+"la ligne"
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i1_The_Swampland.cfg:108
-#, fuzzy
 msgid "(3) If the move is valid an unit will be recalled at the interception"
-msgstr "(3) Si le coup est valide une unité sera rappelé à l'endroit indiqué"
+msgstr "(3) Si le coup est valide une unité sera rappelée à l'intersection"
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i1_The_Swampland.cfg:111
-#, fuzzy
 msgid ""
 "(4) Any enemy units standing between the newly created and another of the "
 "same side will swap side."
 msgstr ""
-"(4) Et toutes les unités ennemies debout entre deux de vos va troquer de "
-"côté."
+"(4) Toute unité ennemie se trouvant entre l'unité nouvellement crée et une "
+"autre du même camp changera de camp"
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i1_The_Swampland.cfg:114
-#, fuzzy
 msgid ""
 "(5) The game continues until the board is full, or neither leader can do a "
 "move."
 msgstr ""
-"(5) Le jeu se poursuit jusqu'à la carte est plein, ou des deux dirigeants "
-"pourraient ne faire pas un mouvement."
+"(5) Le jeu se poursuit jusqu'à ce que le plateau soit plein, ou que plus "
+"aucun chef ne puisse faire de mouvement"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i1_The_Swampland.cfg:143
@@ -2894,13 +2897,12 @@ msgstr "Vous avez gagné!"
 #. [message]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i1_The_Swampland.cfg:670
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i1_The_Swampland.cfg:683
-#, fuzzy
 msgid ""
 "Meneldur: $own_units.length\n"
 "Othello: $enemy_units.length"
 msgstr ""
-"Vous: $side_1_units.length\n"
-"Othello: $side_2_units.length"
+"Meneldur: $own_units.length\n"
+"Othello: $enemy_units.length"
 
 #. [message]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i1_The_Swampland.cfg:682
@@ -3020,13 +3022,12 @@ msgstr ""
 #. [message]: speaker=second_unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i3-1_Theft.cfg:255
 msgid "Orcs! Would they be behind the theft of our ship?"
-msgstr ""
+msgstr "Des orcs! Seraient-ils derrière le vol de notre navire ?"
 
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i3-1_Theft.cfg:269
-#, fuzzy
 msgid "A bridge! What may be across it?"
-msgstr "Un pont ! Que pensez-vous qu'il y ait au-delà ?"
+msgstr "Un pont ! Que peut-il y avoir après lui ?"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i3-1_Theft.cfg:273
@@ -3040,7 +3041,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i3-1_Theft.cfg:287
 msgid "You find some gold pieces in the orc's castle."
-msgstr ""
+msgstr "Vous trouvez des pièces d'or dans le château de l'orc."
 
 #. [scenario]: id=sea_voyage_back_to_the_ship
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i4_Back_to_the_Ship.cfg:6
@@ -3236,7 +3237,7 @@ msgstr "Qui êtes-vous? Que faites-vous si loin de wesnoth?"
 #. [message]: id=Drake
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i5_Fire_Island.cfg:373
 msgid "The same could I ask you."
-msgstr ""
+msgstr "Je pourrais vous demander la même chose."
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i5_Fire_Island.cfg:377
@@ -3278,7 +3279,7 @@ msgstr "Kalandur"
 #. [objectives]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:63
 msgid "Gold carryover:"
-msgstr ""
+msgstr "Report d'or:"
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:66
@@ -3286,11 +3287,13 @@ msgid ""
 "The percentage of gold carried over to the next scenario decreases by 5 for "
 "every slained elf."
 msgstr ""
+"Le pourcentage d'or reporté au scénario suivant diminue de 5 pour chaque "
+"elfe tué."
 
 #. [note]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:70
 msgid "$gold_carryover|% of gold carried over to the next scenario."
-msgstr ""
+msgstr "$gold_carryover|% de l'or reporté au scénario suivant."
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/i6_Traitors.cfg:133
@@ -3742,13 +3745,12 @@ msgstr "Bataille navale"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_Sea_Battle.cfg:270
-#, fuzzy
 msgid ""
 "They had some gold stored in their ship, and enough provisions to restock "
 "our ship."
 msgstr ""
 "Chacun de leurs navires a suffisamment de vivres pour réapprovisionner "
-"entièrement votre bateau."
+"entièrement votre bateau, ainsi qu'un peu d'or."
 
 #. [message]: speaker=unit
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_Sea_Battle.cfg:298
@@ -3764,23 +3766,21 @@ msgstr "En haute mer"
 
 #. [label]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:156
-#, fuzzy
 msgid "Elensefar"
-msgstr "Sauver Elensefar"
+msgstr "Elensefar"
 
 #. [label]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:166
 msgid "Barbaric Sea"
-msgstr ""
+msgstr "Mer des barbares"
 
 #. [label]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:171
 msgid "South Sea"
-msgstr ""
+msgstr "Mer du Sud"
 
 #. [label]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:176
-#, fuzzy
 msgid "Alduin"
 msgstr "Île de Alduin"
 
@@ -3796,7 +3796,6 @@ msgstr "Débarquer dans un port pour refaire le plein de vivres."
 
 #. [objective]: description=<span color='white'><b>, condition=win
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:192
-#, fuzzy
 msgid ""
 "The Wesnothian ships are chasing you; if they attack you they will attempt "
 "to board your ship."
@@ -3835,7 +3834,7 @@ msgstr ""
 #. [objective]: description=<span color='white'><b>, condition=lose
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:209
 msgid "(currently $turnsleft provisions remaining)"
-msgstr ""
+msgstr "(il reste actuellement $turnleft provisions)"
 
 #. [objective]: description=<span color='white'><b>, condition=lose
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:213
@@ -3933,9 +3932,8 @@ msgstr ""
 
 #. [event]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:334
-#, fuzzy
 msgid "This island has nothing of interest."
-msgstr "Cette île ressemble désert."
+msgstr "Cette île semble déserte."
 
 #. [event]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/scenarios/r_The_High_Seas.cfg:335
@@ -4145,15 +4143,16 @@ msgstr ""
 #. [trait]: id=healthy
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Hakim.cfg:97
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Hakim.cfg:160
-#, fuzzy
 msgid "herbalist"
-msgstr "baliste"
+msgstr "herbaliste"
 
 #. [trait]: id=healthy
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Hakim.cfg:98
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Hakim.cfg:161
 msgid "This unit is a skilled herbalist accelerating its healing capabilities."
 msgstr ""
+"Cette unité est un herboriste expérimenté, ce qui accélère ses capacités de "
+"guérison."
 
 #. [unit_type]: id=SE Initiate, race=human
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/Initiate.cfg:5
@@ -4255,9 +4254,8 @@ msgstr ""
 
 #. [unit_type]: id=Elvish Civilian, race=elf
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/elvish_civilian.cfg:8
-#, fuzzy
 msgid "Elvish Civilian"
-msgstr "Civile"
+msgstr "Civil elfe"
 
 #. [unit_type]: id=Elvish Civilian, race=elf
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/elvish_civilian.cfg:25
@@ -4268,52 +4266,69 @@ msgid ""
 "forming a fairly skilled militia. However, if you are hurling civilians at "
 "your foes, you're clearly out of superior forces."
 msgstr ""
+"Étant donné que les elfes ne sont pas de nature guerrière, la majorité de "
+"leur population est composée de civils, qui apprennent très tôt "
+"l’utilisation de base des épées et des arcs, afin de se défendre eux-mêmes "
+"ou de défendre leur maison en cas de besoin. foramnt une milice assez "
+"qualifiée. Cependant, si vous lancez des civils sur vos ennemis, vous êtes "
+"clairement en désavantage."
 
 #. [female]
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/elvish_civilian.cfg:33
-#, fuzzy
 msgid "female^Elvish Maid"
 msgstr "Marin elfe"
 
 #. [unit_type]: id=Elvish Horse Archer
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/horse_archer.cfg:9
-#, fuzzy
 msgid "Elvish Horse Archer"
-msgstr "Marin elfe"
+msgstr "Archer à cheval elfe"
 
 #. [advancement]: id=gd_extra_meelee
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/horse_archer.cfg:25
 msgid "Swordsmastery: add extra damage to sword, Cures Poison, Max XP +20%"
 msgstr ""
+"Poison, Max XP +20%\n"
+"Maîtrise de l'épée: ajoute des dégâts supplémentaires à l'épée, soigne le "
+"poison, XP max + 20%"
 
 #. [advancement]: id=ml_extra_ranged
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/horse_archer.cfg:53
 msgid ""
 "Marksmanship: add marksman to bow, add +2 damage, Cures Poison, MAX XP +20%"
 msgstr ""
+"Précision: ajoute tireur d'élite à l'arc, ajoute +2 points de dégâts, soigne "
+"le posion, XP max + 20%"
 
 #. [advancement]: id=amla_default
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/units/horse_archer.cfg:88
 msgid "Max HP bonus +4, full healing, Max XP +25%"
-msgstr ""
+msgstr "Bonus max HP +4, guérison totale, XP max + 25%"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:8
 msgid ""
 " This unit is capable of distracting opponents, allowing allied units to "
 "trespass their Zones of Control and move unhindered around them."
 msgstr ""
+" Cette unité est capable de distraire ses adversaires, permettant ainsi aux "
+"unités alliées d’empiéter sur leurs zones de contrôle et de se déplacer sans "
+"encombre autour d’elles."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:11
 msgid ""
 " The presence of this unit inspires own units next to it to deal more damage "
 "in combat, though this only applies to units of lower level."
 msgstr ""
+" La présence de cette unité incite les unités adjacentes à infliger "
+"davantage de dégâts en combat, bien que cela ne s'applique qu'aux unités de "
+"niveau inférieur."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:14
 msgid ""
 " This unit is able to grant the skirmisher ability to allied units that "
 "stand next to it on start of his turn."
 msgstr ""
+" Cette unité est capable d'accorder la capacité tirailleur aux unités "
+"alliées qui se tiennent à côté d'elle au début de son tour."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:17
 msgid ""
@@ -4321,6 +4336,10 @@ msgid ""
 "to earn experience points equivalent of the second unit level whenever the "
 "tutor attacks with his melee attack and hits at least once."
 msgstr ""
+"La capacité à enseigner l'expérience de combat à des unités alliées "
+"adjacentes leur permet de gagner des points d'expérience équivalents au "
+"niveau de la deuxième unité chaque fois que le tuteur attaque avec son "
+"attaque de mêlée et frappe au moins une fois."
 
 #. [leadership]: id=blitz
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:23
@@ -4329,14 +4348,12 @@ msgstr "éclair"
 
 #. [leadership]: id=blitz
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:24
-#, fuzzy
 msgid ""
 "Allies that start their turn adjacent to this unit are granted Skirmisher "
 "for that turn."
 msgstr ""
-"Éclair:\n"
-"Alliés qui commencent à leur tour adjacent à cette unité sont accordées "
-"Tirailleur pour ce tour."
+"Les alliés commençant leur tour adjacents à cette unité recoivent Tirailleur "
+"pour ce tour."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:129
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:130
@@ -4345,41 +4362,43 @@ msgstr "tuteur de bataille"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:131
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:132
-#, fuzzy
 msgid ""
 "This unit is able to teach its battle skills to adjacent units of lower "
 "level while using this weapon providing a small boost to experience earned "
 "in battle."
 msgstr ""
-"Tuteur de Bataille:\n"
-"La capacité de cette unité pour enseigner les compétences de combat donne à "
-"chaque unité adjacente alliés une petite poussée de points d'expérience "
-"gagnés au combat."
+"Cette unité est capable d'enseigner ses compétences de combat à des unités "
+"adjacentes de niveau inférieur tout en utilisant cette arme, ce qui améliore "
+"légèrement l'expérience acquise au combat."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:199
-#, fuzzy
 msgid "$battletutor_value XP"
-msgstr "tuteur de bataille"
+msgstr "$battletutor_value XP"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:208
 msgid "distract"
-msgstr ""
+msgstr "distraction"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:209
 msgid ""
 "This unit negates enemy Zones of Control around itself for allied units (but "
 "not for itself)."
 msgstr ""
+"Cette unité annule les zones de contrôle ennemies autour d'elle pour les "
+"unités alliées (mais pas pour elle-même)."
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:231
 msgid "inspire"
-msgstr ""
+msgstr "inspiration"
 
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/abilities.cfg:232
 msgid ""
 "This unit can inspire *allied* units that are next to it, making them do 25% "
 "more damage per level difference."
 msgstr ""
+"Cette unité peut inspirer les unités * alliées * qui se trouvent à côté "
+"d'elle, leur faisant ainsi faire 25% de dégâts supplémentaires par "
+"différence de niveau."
 
 #. [message]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/cutscenes.cfg:100
@@ -4426,27 +4445,29 @@ msgstr "J'espère qu'elle ne sera jamais nécessaire."
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:20
 msgid "To die on the cusp of victory. Oh, the irony!"
-msgstr ""
+msgstr "Mourir au seuil de la victoire. Oh, l'ironie !"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:26
 msgid "Far from home I fall — but not in vain! Guard our people, Madru!"
 msgstr ""
+"Loin de chez moi je tombe - mais pas en vain ! Protège notre peuple, Madru !"
 
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:49
 msgid "I go now to join my forefathers..."
-msgstr ""
+msgstr "Je vais maintenant rejoindre mes ancêtres ..."
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:54
 msgid "He was a brave warrior and a true friend. We will miss him."
 msgstr ""
+"Il était un guerrier courageux et un véritable ami. Il va nous manquer."
 
 #. [message]: id=Black the Red
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:75
 msgid "Aaargh! Curse you $second_unit.name|!"
-msgstr ""
+msgstr "Aaargh! Soit maudit $second_unit.name|!"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:80
@@ -4454,11 +4475,13 @@ msgid ""
 "Without his guidance, how can we retake ever Elensefar? We are lost without "
 "him!"
 msgstr ""
+"Sans lui comme guide, comment pouvons-nous reprendre Elensefar ? Nous sommes "
+"perdus sans lui!"
 
 #. [message]: id=Psison
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:101
 msgid "Farewell Meneldur, I go to the sea god. You must go on without me."
-msgstr ""
+msgstr "Adieu Meneldur, je vais au dieu de la mer. Tu dois continuer sans moi."
 
 #. [message]: id=Padrun
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:133
@@ -4468,7 +4491,7 @@ msgstr "Gagnez... cette bataille... pour moi..."
 #. [message]: id=Danrer
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:165
 msgid "Eloh waits for me!"
-msgstr ""
+msgstr "Eloh m'attend !"
 
 #. [message]: id=Conscript
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:187
@@ -4478,22 +4501,24 @@ msgstr "Je vois la lumière..."
 #. [message]: id=Raenna
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:219
 msgid "This can’t be the end, I have too much left to see."
-msgstr ""
+msgstr "Cela ne peut pas être la fin, il me reste trop à voir."
 
 #. [message]: id=Drake
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:254
 msgid "I knew this was a mistake."
-msgstr ""
+msgstr "Je savais que c'était une erreur."
 
 #. [message]: id=Othello
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:272
 msgid "I have lost all helping the livings... Now they will surely perish!"
 msgstr ""
+"J'ai tout perdu en aidant les vivants ... Maintenant, ils vont sûrement "
+"périr !"
 
 #. [message]: id=Thamen
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/deaths.cfg:289
 msgid "Help me, I can't hold-"
-msgstr ""
+msgstr "Aidez-moi, je ne peux pas tenir-"
 
 #. [message]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/gold_carryover.cfg:102
@@ -4501,12 +4526,16 @@ msgid ""
 "We have to pay $supply_cost upkeep to $units.length soldiers for their "
 "efford in this battle."
 msgstr ""
+"Nous devons payer $supply_cost entretient à $units.length soldats pour leurs "
+"efforts dans cette bataille."
 
 #. [message]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/gold_carryover.cfg:115
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/gold_carryover.cfg:176
 msgid "We run out of supplies and cannot pay our troops their upkeep."
 msgstr ""
+"Nous sommes à court de nourriture et nous ne pouvons pas payer à nos troupes "
+"leur entretien."
 
 #. [message]: speaker=narrator
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/gold_carryover.cfg:168
@@ -4514,6 +4543,8 @@ msgid ""
 "We have taken $scenario_number weeks, $supply_cost gold has been paid as "
 "sold."
 msgstr ""
+"Nous avons pris $scenario_number semaines, $supply_cost or a été payé comme "
+"solde."
 
 #. [message]: id=Madru
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/scenario-utils.cfg:18
@@ -4521,6 +4552,9 @@ msgid ""
 "We have defeated all enemies, we have plenty of time to restock the ship "
 "now. We can train our troops here for a few days."
 msgstr ""
+"Nous avons vaincu tous les ennemis, nous avons tout le temps de "
+"réapprovisionner le navire maintenant. Nous pouvons former nos troupes ici "
+"pendant quelques jours."
 
 #. [message]: id=Black the Red
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/scenario-utils.cfg:22
@@ -4528,11 +4562,14 @@ msgid ""
 "On most scenarios when you finish early your troops will recive some "
 "experience, the earlier you finish the more experience you get!"
 msgstr ""
+"Dans la plupart des scénarios, lorsque vous finissez tôt, vos troupes "
+"acquerront de l'expérience. Plus vous terminez tôt, plus vous obtenez "
+"d'expérience !"
 
 #. [message]: id=Meneldur
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/scenario-utils.cfg:26
 msgid "I will take that into consideration when finishing the scenarios."
-msgstr ""
+msgstr "Je vais en tenir compte lorsque nous terminerons les scénarios."
 
 #. [terrain_type]: id=SE_GrogBarrel
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/terrain.cfg:7
@@ -4541,9 +4578,8 @@ msgstr "Baril de grog"
 
 #. [terrain_type]: id=SE_ShipDock
 #: /home/trewe/src/umc-campaigns/1.12/Saving_Elensefar/utils/terrain.cfg:22
-#, fuzzy
 msgid "Ship Dock"
-msgstr "Naufragé"
+msgstr "Quai"
 
 #~ msgid "Old Foul"
 #~ msgstr "Faute Vieux"
