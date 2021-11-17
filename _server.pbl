@@ -1,0 +1,19 @@
+author="vghetto"
+description="Elensefar has been overrun by orcs, now you had to gather an army to sucessfull retake it.
+
+Non-linear seafaring campaign — small armies, tiny maps and refreshing new game mechanics.
+
+Intermediate Level, 22 optional scenarios (about 12 to play)
+
+Saving Elensefar was orginally by turin and trewe. Saving Elensefar Redux is a fork from the latest available version by trewe."
+email=
+icon="units/transport/galleon.png~RC(magenta>red)"
+passphrase=
+tags="SER,SE"
+title="Saving Elensefar Redux"
+translate=true
+type="campaign"
+version="0.9.4"
+[feedback]
+	topic_id=55119
+[/feedback]
